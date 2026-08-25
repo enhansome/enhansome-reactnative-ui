@@ -30,7 +30,7 @@
             "last_commit": "2026-08-07T19:44:24Z",
             "owner": "akveo",
             "repo": "react-native-ui-kitten",
-            "stars": 10671
+            "stars": 10670
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2024-06-23T08:18:54Z",
             "owner": "ptomasroos",
             "repo": "react-native-scrollable-tab-view",
-            "stars": 6947
+            "stars": 6946
           }
         },
         {
@@ -456,7 +456,7 @@
             "last_commit": "2021-11-08T16:18:57Z",
             "owner": "oblador",
             "repo": "react-native-lightbox",
-            "stars": 2810
+            "stars": 2809
           }
         },
         {
@@ -756,7 +756,7 @@
             "last_commit": "2024-06-19T12:57:31Z",
             "owner": "jacklam718",
             "repo": "react-native-modals",
-            "stars": 2208
+            "stars": 2207
           }
         },
         {
@@ -1446,7 +1446,7 @@
             "last_commit": "2022-05-16T10:52:08Z",
             "owner": "i6mi6",
             "repo": "react-native-alphabetlistview",
-            "stars": 454
+            "stars": 453
           }
         },
         {
@@ -1881,7 +1881,7 @@
             "last_commit": "2023-10-03T09:23:09Z",
             "owner": "nirsky",
             "repo": "react-native-size-matters",
-            "stars": 2527
+            "stars": 2528
           }
         },
         {
@@ -2433,7 +2433,7 @@
             "archived": false,
             "id": 97499414,
             "language": "JavaScript",
-            "last_commit": "2023-07-11T13:23:32Z",
+            "last_commit": "2026-08-24T17:25:56Z",
             "owner": "garrettmac",
             "repo": "react-native-pagination",
             "stars": 419
@@ -3261,7 +3261,7 @@
             "last_commit": "2022-03-24T19:36:53Z",
             "owner": "App2Sales",
             "repo": "react-native-switch-selector",
-            "stars": 508
+            "stars": 507
           }
         },
         {
@@ -5234,7 +5234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:01:50.735Z",
+    "last_updated": "2026-08-25T05:25:09.123Z",
     "original_repository": "madhavanmalolan/awesome-reactnative-ui",
     "original_repository_id": 146722378,
     "original_repository_sha": "41b054c4d4ae63c1c3165e59e8738b23ef392bc7",
