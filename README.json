@@ -105,7 +105,7 @@
             "last_commit": "2026-08-02T11:29:07Z",
             "owner": "wix",
             "repo": "react-native-ui-lib",
-            "stars": 7152
+            "stars": 7151
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-08-20T18:28:18Z",
             "owner": "oblador",
             "repo": "react-native-vector-icons",
-            "stars": 17909
+            "stars": 17908
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-08-05T03:06:36Z",
             "owner": "react-native-maps",
             "repo": "react-native-maps",
-            "stars": 15992
+            "stars": 15993
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-02-01T13:04:07Z",
             "owner": "leecade",
             "repo": "react-native-swiper",
-            "stars": 10485
+            "stars": 10484
           }
         },
         {
@@ -246,7 +246,7 @@
             "last_commit": "2026-03-17T06:44:06Z",
             "owner": "react-native-image-picker",
             "repo": "react-native-image-picker",
-            "stars": 8634
+            "stars": 8633
           }
         },
         {
@@ -261,7 +261,7 @@
             "last_commit": "2024-06-25T15:50:47Z",
             "owner": "meliorence",
             "repo": "react-native-snap-carousel",
-            "stars": 10513
+            "stars": 10511
           }
         },
         {
@@ -291,7 +291,7 @@
             "last_commit": "2026-08-20T08:28:01Z",
             "owner": "software-mansion",
             "repo": "react-native-svg",
-            "stars": 8001
+            "stars": 8000
           }
         },
         {
@@ -321,7 +321,7 @@
             "last_commit": "2021-11-02T02:35:55Z",
             "owner": "FuYaoDe",
             "repo": "react-native-app-intro",
-            "stars": 3248
+            "stars": 3247
           }
         },
         {
@@ -336,7 +336,7 @@
             "last_commit": "2026-01-21T23:31:48Z",
             "owner": "ivpusic",
             "repo": "react-native-image-crop-picker",
-            "stars": 6350
+            "stars": 6349
           }
         },
         {
@@ -441,7 +441,7 @@
             "last_commit": "2024-12-15T09:14:54Z",
             "owner": "maxs15",
             "repo": "react-native-modalbox",
-            "stars": 2918
+            "stars": 2917
           }
         },
         {
@@ -486,7 +486,7 @@
             "last_commit": "2024-02-05T10:46:07Z",
             "owner": "oblador",
             "repo": "react-native-progress",
-            "stars": 3666
+            "stars": 3667
           }
         },
         {
@@ -531,7 +531,7 @@
             "last_commit": "2023-03-18T11:22:11Z",
             "owner": "nitaliano",
             "repo": "react-native-mapbox-gl",
-            "stars": 2169
+            "stars": 2170
           }
         },
         {
@@ -651,7 +651,7 @@
             "last_commit": "2023-05-05T12:02:07Z",
             "owner": "xgfe",
             "repo": "react-native-datepicker",
-            "stars": 2113
+            "stars": 2112
           }
         },
         {
@@ -726,7 +726,7 @@
             "last_commit": "2024-08-27T20:12:04Z",
             "owner": "oblador",
             "repo": "react-native-collapsible",
-            "stars": 2591
+            "stars": 2592
           }
         },
         {
@@ -756,7 +756,7 @@
             "last_commit": "2024-06-19T12:57:31Z",
             "owner": "jacklam718",
             "repo": "react-native-modals",
-            "stars": 2207
+            "stars": 2208
           }
         },
         {
@@ -861,7 +861,7 @@
             "last_commit": "2022-12-13T12:58:42Z",
             "owner": "jeanregisser",
             "repo": "react-native-slider",
-            "stars": 1299
+            "stars": 1301
           }
         },
         {
@@ -921,7 +921,7 @@
             "last_commit": "2026-06-06T23:35:58Z",
             "owner": "testshallpass",
             "repo": "react-native-dropdownalert",
-            "stars": 1877
+            "stars": 1876
           }
         },
         {
@@ -1161,7 +1161,7 @@
             "last_commit": "2024-04-25T07:56:51Z",
             "owner": "crazycodeboy",
             "repo": "react-native-easy-toast",
-            "stars": 1146
+            "stars": 1145
           }
         },
         {
@@ -1431,7 +1431,7 @@
             "last_commit": "2021-09-21T01:42:21Z",
             "owner": "huiseoul",
             "repo": "react-native-fit-image",
-            "stars": 581
+            "stars": 580
           }
         },
         {
@@ -5151,7 +5151,7 @@
             "last_commit": "2025-06-05T18:28:03Z",
             "owner": "henninghall",
             "repo": "react-native-date-picker",
-            "stars": 2506
+            "stars": 2505
           }
         },
         {
@@ -5234,7 +5234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:52:41.026Z",
+    "last_updated": "2026-08-26T05:26:08.833Z",
     "original_repository": "madhavanmalolan/awesome-reactnative-ui",
     "original_repository_id": 146722378,
     "original_repository_sha": "41b054c4d4ae63c1c3165e59e8738b23ef392bc7",
