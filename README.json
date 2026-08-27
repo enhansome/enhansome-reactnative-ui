@@ -156,7 +156,7 @@
             "last_commit": "2026-08-22T20:26:01Z",
             "owner": "lottie-react-native",
             "repo": "lottie-react-native",
-            "stars": 17205
+            "stars": 17206
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-08-20T18:28:18Z",
             "owner": "oblador",
             "repo": "react-native-vector-icons",
-            "stars": 17908
+            "stars": 17911
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-08-05T03:06:36Z",
             "owner": "react-native-maps",
             "repo": "react-native-maps",
-            "stars": 15993
+            "stars": 15994
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-02-01T13:04:07Z",
             "owner": "leecade",
             "repo": "react-native-swiper",
-            "stars": 10484
+            "stars": 10485
           }
         },
         {
@@ -246,7 +246,7 @@
             "last_commit": "2026-03-17T06:44:06Z",
             "owner": "react-native-image-picker",
             "repo": "react-native-image-picker",
-            "stars": 8633
+            "stars": 8634
           }
         },
         {
@@ -291,7 +291,7 @@
             "last_commit": "2026-08-20T08:28:01Z",
             "owner": "software-mansion",
             "repo": "react-native-svg",
-            "stars": 8000
+            "stars": 8001
           }
         },
         {
@@ -336,7 +336,7 @@
             "last_commit": "2026-01-21T23:31:48Z",
             "owner": "ivpusic",
             "repo": "react-native-image-crop-picker",
-            "stars": 6349
+            "stars": 6348
           }
         },
         {
@@ -711,7 +711,7 @@
             "last_commit": "2023-05-03T05:21:03Z",
             "owner": "Andr3wHur5t",
             "repo": "react-native-keyboard-spacer",
-            "stars": 1572
+            "stars": 1573
           }
         },
         {
@@ -741,7 +741,7 @@
             "last_commit": "2025-08-13T10:49:09Z",
             "owner": "bartgryszko",
             "repo": "react-native-circular-progress",
-            "stars": 2251
+            "stars": 2249
           }
         },
         {
@@ -1071,7 +1071,7 @@
             "last_commit": "2026-07-23T13:59:57Z",
             "owner": "instea",
             "repo": "react-native-popup-menu",
-            "stars": 1558
+            "stars": 1557
           }
         },
         {
@@ -1266,7 +1266,7 @@
             "last_commit": "2024-08-21T01:06:53Z",
             "owner": "JesperLekland",
             "repo": "react-native-svg-charts",
-            "stars": 2399
+            "stars": 2398
           }
         },
         {
@@ -2256,7 +2256,7 @@
             "last_commit": "2016-06-21T00:12:25Z",
             "owner": "d-a-n",
             "repo": "react-native-webbrowser",
-            "stars": 205
+            "stars": 206
           }
         },
         {
@@ -3606,7 +3606,7 @@
             "last_commit": "2023-08-16T06:19:20Z",
             "owner": "ardaogulcan",
             "repo": "react-native-keyboard-accessory",
-            "stars": 542
+            "stars": 543
           }
         },
         {
@@ -4908,7 +4908,7 @@
             "archived": false,
             "id": 129140285,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T16:18:06Z",
+            "last_commit": "2026-08-26T19:59:31Z",
             "owner": "maggialejandro",
             "repo": "react-native-calendario",
             "stars": 535
@@ -5234,9 +5234,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:26:08.833Z",
-    "original_repository": "madhavanmalolan/awesome-reactnative-ui",
-    "original_repository_id": 146722378,
+    "last_updated": "2026-08-27T12:02:30.582Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 146722378,
+      "language": "Python",
+      "last_commit": "2023-08-28T10:35:44Z",
+      "owner": "madhavanmalolan",
+      "repo": "awesome-reactnative-ui",
+      "stars": 3469
+    },
     "original_repository_sha": "41b054c4d4ae63c1c3165e59e8738b23ef392bc7",
     "enhanced_repository": "enhansome/enhansome-reactnative-ui",
     "enhanced_repository_description": null,
