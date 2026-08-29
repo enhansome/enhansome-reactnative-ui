@@ -222,7 +222,7 @@
             "open_issues": 376,
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20385,
+            "stars": 20384,
             "topics": [
               "android",
               "hacktoberfest",
@@ -259,7 +259,7 @@
             "open_issues": 14,
             "owner": "lottie-react-native",
             "repo": "lottie-react-native",
-            "stars": 17209,
+            "stars": 17210,
             "topics": [
               "after-effects",
               "animations",
@@ -286,7 +286,7 @@
             "open_issues": 19,
             "owner": "oblador",
             "repo": "react-native-vector-icons",
-            "stars": 17914,
+            "stars": 17913,
             "topics": [
               "icon",
               "icon-pack",
@@ -309,7 +309,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-05T03:06:36Z",
-            "open_issues": 96,
+            "open_issues": 98,
             "owner": "react-native-maps",
             "repo": "react-native-maps",
             "stars": 15995,
@@ -337,7 +337,7 @@
             "open_issues": 780,
             "owner": "leecade",
             "repo": "react-native-swiper",
-            "stars": 10485,
+            "stars": 10484,
             "topics": [
               "react",
               "react-native",
@@ -362,7 +362,7 @@
             "open_issues": 6,
             "owner": "FaridSafi",
             "repo": "react-native-gifted-chat",
-            "stars": 14440,
+            "stars": 14441,
             "topics": [
               "chat",
               "component",
@@ -466,7 +466,7 @@
             "open_issues": 148,
             "owner": "wix",
             "repo": "react-native-calendars",
-            "stars": 10310,
+            "stars": 10309,
             "topics": [
               "android",
               "calendar",
@@ -5058,7 +5058,7 @@
             "id": 94703864,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-22T01:02:46Z",
+            "last_commit": "2026-08-29T05:33:25Z",
             "open_issues": 4,
             "owner": "douglasjunior",
             "repo": "react-native-simple-dialogs",
@@ -8350,7 +8350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:18:20.974Z",
+    "last_updated": "2026-08-29T11:26:14.265Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Native UI components updated weekly",
