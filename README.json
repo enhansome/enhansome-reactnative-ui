@@ -43,7 +43,7 @@
             "open_issues": 134,
             "owner": "akveo",
             "repo": "react-native-ui-kitten",
-            "stars": 10670,
+            "stars": 10669,
             "topics": [
               "react",
               "react-native",
@@ -172,7 +172,7 @@
             "open_issues": 84,
             "owner": "wix",
             "repo": "react-native-ui-lib",
-            "stars": 7151,
+            "stars": 7152,
             "topics": [
               "android",
               "components",
@@ -309,7 +309,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-05T03:06:36Z",
-            "open_issues": 98,
+            "open_issues": 99,
             "owner": "react-native-maps",
             "repo": "react-native-maps",
             "stars": 15995,
@@ -362,7 +362,7 @@
             "open_issues": 6,
             "owner": "FaridSafi",
             "repo": "react-native-gifted-chat",
-            "stars": 14441,
+            "stars": 14442,
             "topics": [
               "chat",
               "component",
@@ -410,7 +410,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-03-17T06:44:06Z",
-            "open_issues": 345,
+            "open_issues": 347,
             "owner": "react-native-image-picker",
             "repo": "react-native-image-picker",
             "stars": 8634,
@@ -491,7 +491,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-20T08:28:01Z",
-            "open_issues": 236,
+            "open_issues": 237,
             "owner": "software-mansion",
             "repo": "react-native-svg",
             "stars": 8003,
@@ -8204,7 +8204,7 @@
             "open_issues": 80,
             "owner": "henninghall",
             "repo": "react-native-date-picker",
-            "stars": 2504,
+            "stars": 2505,
             "topics": [
               "date-time-picker",
               "datepicker",
@@ -8350,7 +8350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T11:26:14.265Z",
+    "last_updated": "2026-08-30T10:12:32.377Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Native UI components updated weekly",
