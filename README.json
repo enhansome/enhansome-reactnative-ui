@@ -43,7 +43,7 @@
             "open_issues": 134,
             "owner": "akveo",
             "repo": "react-native-ui-kitten",
-            "stars": 10669,
+            "stars": 10670,
             "topics": [
               "react",
               "react-native",
@@ -168,7 +168,7 @@
             "id": 81314550,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-02T11:29:07Z",
+            "last_commit": "2026-09-01T09:15:05Z",
             "open_issues": 84,
             "owner": "wix",
             "repo": "react-native-ui-lib",
@@ -256,10 +256,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-08-22T20:26:01Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "lottie-react-native",
             "repo": "lottie-react-native",
-            "stars": 17209,
+            "stars": 17210,
             "topics": [
               "after-effects",
               "animations",
@@ -286,7 +286,7 @@
             "open_issues": 19,
             "owner": "oblador",
             "repo": "react-native-vector-icons",
-            "stars": 17913,
+            "stars": 17914,
             "topics": [
               "icon",
               "icon-pack",
@@ -309,7 +309,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-05T03:06:36Z",
-            "open_issues": 99,
+            "open_issues": 98,
             "owner": "react-native-maps",
             "repo": "react-native-maps",
             "stars": 15995,
@@ -362,7 +362,7 @@
             "open_issues": 6,
             "owner": "FaridSafi",
             "repo": "react-native-gifted-chat",
-            "stars": 14442,
+            "stars": 14443,
             "topics": [
               "chat",
               "component",
@@ -387,7 +387,7 @@
             "open_issues": 165,
             "owner": "ptomasroos",
             "repo": "react-native-scrollable-tab-view",
-            "stars": 6947,
+            "stars": 6946,
             "topics": [
               "animated",
               "react-native",
@@ -466,7 +466,7 @@
             "open_issues": 148,
             "owner": "wix",
             "repo": "react-native-calendars",
-            "stars": 10309,
+            "stars": 10310,
             "topics": [
               "android",
               "calendar",
@@ -494,7 +494,7 @@
             "open_issues": 254,
             "owner": "software-mansion",
             "repo": "react-native-svg",
-            "stars": 8001,
+            "stars": 8002,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -1018,7 +1018,7 @@
             "open_issues": 96,
             "owner": "i6mi6",
             "repo": "react-native-parallax-scroll-view",
-            "stars": 2334,
+            "stars": 2333,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -2473,7 +2473,7 @@
             "open_issues": 0,
             "owner": "ladas-larry",
             "repo": "react-native-responsive-image",
-            "stars": 398,
+            "stars": 397,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -2601,8 +2601,8 @@
             "id": 52279702,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-24T08:54:51Z",
-            "open_issues": 8,
+            "last_commit": "2026-08-31T16:03:05Z",
+            "open_issues": 7,
             "owner": "byteburgers",
             "repo": "react-native-autocomplete-input",
             "stars": 871,
@@ -5222,7 +5222,7 @@
             "open_issues": 16,
             "owner": "ihor",
             "repo": "react-native-scalable-image",
-            "stars": 313,
+            "stars": 312,
             "topics": [
               "aspect-ratio",
               "component",
@@ -6043,7 +6043,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2018-04-06T14:38:21Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "andy9775",
             "repo": "React-Native-CircularProgress",
             "stars": 45,
@@ -8236,7 +8236,7 @@
             "open_issues": 59,
             "owner": "wix",
             "repo": "react-native-navigation",
-            "stars": 13175,
+            "stars": 13176,
             "topics": [
               "hacktoberfest",
               "navigation",
@@ -8350,7 +8350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T11:15:50.301Z",
+    "last_updated": "2026-09-01T09:41:09.589Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Native UI components updated weekly",
