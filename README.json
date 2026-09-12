@@ -39,7 +39,7 @@
             "id": 76937669,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T08:29:19Z",
+            "last_commit": "2026-09-11T16:30:59Z",
             "open_issues": 134,
             "owner": "akveo",
             "repo": "react-native-ui-kitten",
@@ -222,7 +222,7 @@
             "open_issues": 376,
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20376,
+            "stars": 20375,
             "topics": [
               "android",
               "hacktoberfest",
@@ -259,7 +259,7 @@
             "open_issues": 16,
             "owner": "lottie-react-native",
             "repo": "lottie-react-native",
-            "stars": 17208,
+            "stars": 17209,
             "topics": [
               "after-effects",
               "animations",
@@ -309,10 +309,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-10T07:43:16Z",
-            "open_issues": 100,
+            "open_issues": 99,
             "owner": "react-native-maps",
             "repo": "react-native-maps",
-            "stars": 15996,
+            "stars": 15998,
             "topics": [
               "google-maps",
               "maps",
@@ -490,8 +490,8 @@
             "id": 49820627,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T08:32:45Z",
-            "open_issues": 268,
+            "last_commit": "2026-09-11T12:40:57Z",
+            "open_issues": 265,
             "owner": "software-mansion",
             "repo": "react-native-svg",
             "stars": 8001,
@@ -698,7 +698,7 @@
             "open_issues": 108,
             "owner": "dancormier",
             "repo": "react-native-swipeout",
-            "stars": 2608,
+            "stars": 2607,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -997,7 +997,7 @@
             "open_issues": 106,
             "owner": "race604",
             "repo": "react-native-viewpager",
-            "stars": 1405,
+            "stars": 1404,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -3209,7 +3209,7 @@
             "id": 94996777,
             "language": "Objective-C",
             "license": "MIT",
-            "last_commit": "2026-09-05T00:08:16Z",
+            "last_commit": "2026-09-12T00:08:27Z",
             "open_issues": 1,
             "owner": "douglasjunior",
             "repo": "react-native-keyboard-manager",
@@ -3939,7 +3939,7 @@
             "id": 97499414,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T22:45:42Z",
+            "last_commit": "2026-09-12T04:22:46Z",
             "open_issues": 14,
             "owner": "garrettmac",
             "repo": "react-native-pagination",
@@ -5058,7 +5058,7 @@
             "id": 94703864,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-05T02:52:44Z",
+            "last_commit": "2026-09-12T03:02:51Z",
             "open_issues": 4,
             "owner": "douglasjunior",
             "repo": "react-native-simple-dialogs",
@@ -5881,7 +5881,7 @@
             "open_issues": 2,
             "owner": "atlanteh",
             "repo": "react-native-slot-machine",
-            "stars": 164,
+            "stars": 163,
             "topics": [
               "counter",
               "react-native",
@@ -8236,7 +8236,7 @@
             "open_issues": 61,
             "owner": "wix",
             "repo": "react-native-navigation",
-            "stars": 13176,
+            "stars": 13177,
             "topics": [
               "hacktoberfest",
               "navigation",
@@ -8350,7 +8350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T09:17:09.184Z",
+    "last_updated": "2026-09-12T08:57:19.058Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Native UI components updated weekly",
