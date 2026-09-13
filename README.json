@@ -19,7 +19,7 @@
             "open_issues": 189,
             "owner": "xinthink",
             "repo": "react-native-material-kit",
-            "stars": 4813,
+            "stars": 4812,
             "topics": [
               "material-design",
               "react-native"
@@ -222,7 +222,7 @@
             "open_issues": 376,
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20375,
+            "stars": 20374,
             "topics": [
               "android",
               "hacktoberfest",
@@ -255,11 +255,11 @@
             "id": 80233816,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T17:29:27Z",
-            "open_issues": 16,
+            "last_commit": "2026-09-13T04:59:06Z",
+            "open_issues": 17,
             "owner": "lottie-react-native",
             "repo": "lottie-react-native",
-            "stars": 17209,
+            "stars": 17208,
             "topics": [
               "after-effects",
               "animations",
@@ -286,7 +286,7 @@
             "open_issues": 19,
             "owner": "oblador",
             "repo": "react-native-vector-icons",
-            "stars": 17917,
+            "stars": 17915,
             "topics": [
               "icon",
               "icon-pack",
@@ -309,10 +309,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-10T07:43:16Z",
-            "open_issues": 99,
+            "open_issues": 103,
             "owner": "react-native-maps",
             "repo": "react-native-maps",
-            "stars": 15998,
+            "stars": 15997,
             "topics": [
               "google-maps",
               "maps",
@@ -337,7 +337,7 @@
             "open_issues": 780,
             "owner": "leecade",
             "repo": "react-native-swiper",
-            "stars": 10479,
+            "stars": 10477,
             "topics": [
               "react",
               "react-native",
@@ -362,7 +362,7 @@
             "open_issues": 10,
             "owner": "FaridSafi",
             "repo": "react-native-gifted-chat",
-            "stars": 14444,
+            "stars": 14443,
             "topics": [
               "chat",
               "component",
@@ -387,7 +387,7 @@
             "open_issues": 165,
             "owner": "ptomasroos",
             "repo": "react-native-scrollable-tab-view",
-            "stars": 6946,
+            "stars": 6945,
             "topics": [
               "animated",
               "react-native",
@@ -413,7 +413,7 @@
             "open_issues": 348,
             "owner": "react-native-image-picker",
             "repo": "react-native-image-picker",
-            "stars": 8633,
+            "stars": 8632,
             "topics": [
               "image-picker",
               "picker",
@@ -438,7 +438,7 @@
             "open_issues": 404,
             "owner": "meliorence",
             "repo": "react-native-snap-carousel",
-            "stars": 10508,
+            "stars": 10507,
             "topics": [
               "advanced-effects",
               "carousel",
@@ -463,10 +463,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-04-23T05:51:55Z",
-            "open_issues": 148,
+            "open_issues": 149,
             "owner": "wix",
             "repo": "react-native-calendars",
-            "stars": 10309,
+            "stars": 10308,
             "topics": [
               "android",
               "calendar",
@@ -494,7 +494,7 @@
             "open_issues": 265,
             "owner": "software-mansion",
             "repo": "react-native-svg",
-            "stars": 8001,
+            "stars": 7999,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -564,7 +564,7 @@
             "open_issues": 656,
             "owner": "ivpusic",
             "repo": "react-native-image-crop-picker",
-            "stars": 6352,
+            "stars": 6351,
             "topics": [
               "android",
               "crop",
@@ -595,7 +595,7 @@
             "open_issues": 249,
             "owner": "margelo",
             "repo": "react-native-blur",
-            "stars": 3879,
+            "stars": 3878,
             "topics": [
               "react-native",
               "react-native-blur",
@@ -620,7 +620,7 @@
             "open_issues": 412,
             "owner": "crazycodeboy",
             "repo": "react-native-splash-screen",
-            "stars": 5657,
+            "stars": 5656,
             "topics": [
               "android",
               "ios",
@@ -698,7 +698,7 @@
             "open_issues": 108,
             "owner": "dancormier",
             "repo": "react-native-swipeout",
-            "stars": 2607,
+            "stars": 2606,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -761,7 +761,7 @@
             "open_issues": 83,
             "owner": "oblador",
             "repo": "react-native-lightbox",
-            "stars": 2808,
+            "stars": 2807,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -899,7 +899,7 @@
             "open_issues": 476,
             "owner": "DylanVann",
             "repo": "react-native-fast-image",
-            "stars": 8423,
+            "stars": 8422,
             "topics": [
               "cocoapod",
               "glide",
@@ -929,7 +929,7 @@
             "open_issues": 46,
             "owner": "maxs15",
             "repo": "react-native-spinkit",
-            "stars": 2432,
+            "stars": 2431,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -950,7 +950,7 @@
             "open_issues": 58,
             "owner": "tomauty",
             "repo": "react-native-chart",
-            "stars": 1566,
+            "stars": 1565,
             "topics": [
               "chart",
               "javascript",
@@ -976,7 +976,7 @@
             "open_issues": 46,
             "owner": "FaridSafi",
             "repo": "react-native-gifted-listview",
-            "stars": 1613,
+            "stars": 1612,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -1018,7 +1018,7 @@
             "open_issues": 96,
             "owner": "i6mi6",
             "repo": "react-native-parallax-scroll-view",
-            "stars": 2332,
+            "stars": 2331,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -1060,7 +1060,7 @@
             "open_issues": 285,
             "owner": "xgfe",
             "repo": "react-native-datepicker",
-            "stars": 2112,
+            "stars": 2111,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -1127,7 +1127,7 @@
             "open_issues": 206,
             "owner": "beefe",
             "repo": "react-native-picker",
-            "stars": 1757,
+            "stars": 1756,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -1148,7 +1148,7 @@
             "open_issues": 36,
             "owner": "Andr3wHur5t",
             "repo": "react-native-keyboard-spacer",
-            "stars": 1573,
+            "stars": 1572,
             "topics": [
               "clean-code",
               "helper",
@@ -1201,7 +1201,7 @@
             "open_issues": 74,
             "owner": "bartgryszko",
             "repo": "react-native-circular-progress",
-            "stars": 2249,
+            "stars": 2248,
             "topics": [
               "animation",
               "circle",
@@ -1257,7 +1257,7 @@
             "open_issues": 72,
             "owner": "meteor-factory",
             "repo": "react-native-tinder-swipe-cards",
-            "stars": 1130,
+            "stars": 1127,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -1278,7 +1278,7 @@
             "open_issues": 95,
             "owner": "magicismight",
             "repo": "react-native-root-toast",
-            "stars": 2136,
+            "stars": 2135,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -1333,7 +1333,7 @@
             "open_issues": 28,
             "owner": "ladjs",
             "repo": "react-native-loading-spinner-overlay",
-            "stars": 1586,
+            "stars": 1585,
             "topics": [
               "activity-indicator",
               "android",
@@ -1368,7 +1368,7 @@
             "open_issues": 34,
             "owner": "bolan9999",
             "repo": "react-native-largelist",
-            "stars": 2345,
+            "stars": 2344,
             "topics": [
               "flatlist",
               "high-performance-list",
@@ -1392,7 +1392,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2023-03-04T11:06:55Z",
-            "open_issues": 25,
+            "open_issues": 24,
             "owner": "rgommezz",
             "repo": "react-native-offline",
             "stars": 2361,
@@ -1422,7 +1422,7 @@
             "open_issues": 118,
             "owner": "jeanregisser",
             "repo": "react-native-slider",
-            "stars": 1301,
+            "stars": 1300,
             "topics": [
               "react-native"
             ]
@@ -1698,7 +1698,7 @@
             "open_issues": 103,
             "owner": "sohobloo",
             "repo": "react-native-modal-dropdown",
-            "stars": 1215,
+            "stars": 1214,
             "topics": [
               "dropdown",
               "modal",
@@ -1801,7 +1801,7 @@
             "open_issues": 24,
             "owner": "mfrachet",
             "repo": "rn-placeholder",
-            "stars": 2126,
+            "stars": 2125,
             "topics": [
               "placeholder",
               "react",
@@ -1827,7 +1827,7 @@
             "open_issues": 49,
             "owner": "cssivision",
             "repo": "react-native-qrcode",
-            "stars": 859,
+            "stars": 856,
             "topics": [
               "qrcode",
               "react-native"
@@ -1923,7 +1923,7 @@
             "open_issues": 84,
             "owner": "crazycodeboy",
             "repo": "react-native-easy-toast",
-            "stars": 1145,
+            "stars": 1144,
             "topics": [
               "react-native",
               "react-native-toast",
@@ -1970,7 +1970,7 @@
             "open_issues": 26,
             "owner": "jeanregisser",
             "repo": "react-native-popover",
-            "stars": 670,
+            "stars": 669,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -2250,7 +2250,7 @@
             "open_issues": 15,
             "owner": "Spikef",
             "repo": "react-native-gesture-password",
-            "stars": 547,
+            "stars": 546,
             "topics": [
               "gesture-password",
               "interval",
@@ -2277,7 +2277,7 @@
             "open_issues": 21,
             "owner": "expo",
             "repo": "react-native-invertible-scroll-view",
-            "stars": 462,
+            "stars": 461,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -2346,7 +2346,7 @@
             "open_issues": 30,
             "owner": "KBLNY",
             "repo": "react-native-message-bar",
-            "stars": 439,
+            "stars": 438,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -2494,7 +2494,7 @@
             "open_issues": 32,
             "owner": "iddan",
             "repo": "react-native-canvas",
-            "stars": 1018,
+            "stars": 1017,
             "topics": [
               "canvas",
               "graphics",
@@ -2521,7 +2521,7 @@
             "open_issues": 58,
             "owner": "cnjon",
             "repo": "react-native-pdf-view",
-            "stars": 404,
+            "stars": 403,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -2966,7 +2966,7 @@
             "open_issues": 27,
             "owner": "react-native-simple-router-community",
             "repo": "react-native-simple-router",
-            "stars": 265,
+            "stars": 264,
             "topics": [
               "navigation",
               "react-native",
@@ -3240,7 +3240,7 @@
             "open_issues": 71,
             "owner": "octopitus",
             "repo": "rn-sliding-up-panel",
-            "stars": 922,
+            "stars": 921,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -4263,8 +4263,8 @@
             "id": 35126991,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T21:50:27Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-13T07:12:42Z",
+            "open_issues": 13,
             "owner": "mayank-patel",
             "repo": "react-native-floating-labels",
             "stars": 164,
@@ -5062,7 +5062,7 @@
             "open_issues": 4,
             "owner": "douglasjunior",
             "repo": "react-native-simple-dialogs",
-            "stars": 472,
+            "stars": 471,
             "topics": [
               "android",
               "cross-platform",
@@ -5881,7 +5881,7 @@
             "open_issues": 2,
             "owner": "atlanteh",
             "repo": "react-native-slot-machine",
-            "stars": 163,
+            "stars": 165,
             "topics": [
               "counter",
               "react-native",
@@ -8236,7 +8236,7 @@
             "open_issues": 61,
             "owner": "wix",
             "repo": "react-native-navigation",
-            "stars": 13177,
+            "stars": 13176,
             "topics": [
               "hacktoberfest",
               "navigation",
@@ -8350,7 +8350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T08:57:19.058Z",
+    "last_updated": "2026-09-13T09:54:14.273Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Native UI components updated weekly",
