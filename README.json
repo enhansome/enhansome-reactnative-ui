@@ -43,7 +43,7 @@
             "open_issues": 134,
             "owner": "akveo",
             "repo": "react-native-ui-kitten",
-            "stars": 10668,
+            "stars": 10667,
             "topics": [
               "react",
               "react-native",
@@ -172,7 +172,7 @@
             "open_issues": 86,
             "owner": "wix",
             "repo": "react-native-ui-lib",
-            "stars": 7156,
+            "stars": 7157,
             "topics": [
               "android",
               "components",
@@ -286,7 +286,7 @@
             "open_issues": 19,
             "owner": "oblador",
             "repo": "react-native-vector-icons",
-            "stars": 17915,
+            "stars": 17914,
             "topics": [
               "icon",
               "icon-pack",
@@ -308,8 +308,8 @@
             "id": 48764652,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T07:43:16Z",
-            "open_issues": 103,
+            "last_commit": "2026-09-13T20:34:06Z",
+            "open_issues": 96,
             "owner": "react-native-maps",
             "repo": "react-native-maps",
             "stars": 15997,
@@ -438,7 +438,7 @@
             "open_issues": 404,
             "owner": "meliorence",
             "repo": "react-native-snap-carousel",
-            "stars": 10507,
+            "stars": 10506,
             "topics": [
               "advanced-effects",
               "carousel",
@@ -466,7 +466,7 @@
             "open_issues": 149,
             "owner": "wix",
             "repo": "react-native-calendars",
-            "stars": 10308,
+            "stars": 10309,
             "topics": [
               "android",
               "calendar",
@@ -494,7 +494,7 @@
             "open_issues": 265,
             "owner": "software-mansion",
             "repo": "react-native-svg",
-            "stars": 7999,
+            "stars": 8001,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -536,7 +536,7 @@
             "open_issues": 80,
             "owner": "FuYaoDe",
             "repo": "react-native-app-intro",
-            "stars": 3246,
+            "stars": 3245,
             "topics": [
               "android",
               "intro",
@@ -564,7 +564,7 @@
             "open_issues": 656,
             "owner": "ivpusic",
             "repo": "react-native-image-crop-picker",
-            "stars": 6351,
+            "stars": 6350,
             "topics": [
               "android",
               "crop",
@@ -595,7 +595,7 @@
             "open_issues": 249,
             "owner": "margelo",
             "repo": "react-native-blur",
-            "stars": 3878,
+            "stars": 3877,
             "topics": [
               "react-native",
               "react-native-blur",
@@ -620,7 +620,7 @@
             "open_issues": 412,
             "owner": "crazycodeboy",
             "repo": "react-native-splash-screen",
-            "stars": 5656,
+            "stars": 5655,
             "topics": [
               "android",
               "ios",
@@ -899,7 +899,7 @@
             "open_issues": 476,
             "owner": "DylanVann",
             "repo": "react-native-fast-image",
-            "stars": 8422,
+            "stars": 8421,
             "topics": [
               "cocoapod",
               "glide",
@@ -1445,7 +1445,7 @@
             "open_issues": 20,
             "owner": "sghiassy",
             "repo": "react-native-sglistview",
-            "stars": 742,
+            "stars": 741,
             "topics": [
               "listview",
               "react",
@@ -1616,7 +1616,7 @@
             "open_issues": 40,
             "owner": "brh55",
             "repo": "react-native-masonry",
-            "stars": 1373,
+            "stars": 1374,
             "topics": [
               "masonry",
               "masonry-grid",
@@ -8350,7 +8350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T09:54:14.273Z",
+    "last_updated": "2026-09-14T10:13:53.835Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Native UI components updated weekly",
