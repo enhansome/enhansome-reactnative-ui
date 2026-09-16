@@ -172,7 +172,7 @@
             "open_issues": 86,
             "owner": "wix",
             "repo": "react-native-ui-lib",
-            "stars": 7157,
+            "stars": 7158,
             "topics": [
               "android",
               "components",
@@ -309,10 +309,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-13T20:34:06Z",
-            "open_issues": 96,
+            "open_issues": 94,
             "owner": "react-native-maps",
             "repo": "react-native-maps",
-            "stars": 15996,
+            "stars": 15997,
             "topics": [
               "google-maps",
               "maps",
@@ -466,7 +466,7 @@
             "open_issues": 150,
             "owner": "wix",
             "repo": "react-native-calendars",
-            "stars": 10308,
+            "stars": 10309,
             "topics": [
               "android",
               "calendar",
@@ -592,7 +592,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-05-09T11:42:58Z",
-            "open_issues": 249,
+            "open_issues": 250,
             "owner": "margelo",
             "repo": "react-native-blur",
             "stars": 3877,
@@ -824,7 +824,7 @@
             "open_issues": 96,
             "owner": "mastermoo",
             "repo": "react-native-action-button",
-            "stars": 2516,
+            "stars": 2515,
             "topics": [
               "actionbutton",
               "component",
@@ -7854,7 +7854,7 @@
             "id": 129140285,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T20:03:28Z",
+            "last_commit": "2026-09-15T16:11:28Z",
             "open_issues": 33,
             "owner": "maggialejandro",
             "repo": "react-native-calendario",
@@ -8350,7 +8350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T09:42:58.965Z",
+    "last_updated": "2026-09-16T09:36:44.612Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Native UI components updated weekly",
