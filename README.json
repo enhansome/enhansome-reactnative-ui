@@ -219,7 +219,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-01-31T17:46:33Z",
-            "open_issues": 376,
+            "open_issues": 377,
             "owner": "GeekyAnts",
             "repo": "NativeBase",
             "stars": 20374,
@@ -259,7 +259,7 @@
             "open_issues": 17,
             "owner": "lottie-react-native",
             "repo": "lottie-react-native",
-            "stars": 17206,
+            "stars": 17205,
             "topics": [
               "after-effects",
               "animations",
@@ -286,7 +286,7 @@
             "open_issues": 19,
             "owner": "oblador",
             "repo": "react-native-vector-icons",
-            "stars": 17914,
+            "stars": 17915,
             "topics": [
               "icon",
               "icon-pack",
@@ -309,7 +309,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-13T20:34:06Z",
-            "open_issues": 94,
+            "open_issues": 100,
             "owner": "react-native-maps",
             "repo": "react-native-maps",
             "stars": 15996,
@@ -466,7 +466,7 @@
             "open_issues": 150,
             "owner": "wix",
             "repo": "react-native-calendars",
-            "stars": 10309,
+            "stars": 10310,
             "topics": [
               "android",
               "calendar",
@@ -1368,7 +1368,7 @@
             "open_issues": 34,
             "owner": "bolan9999",
             "repo": "react-native-largelist",
-            "stars": 2344,
+            "stars": 2343,
             "topics": [
               "flatlist",
               "high-performance-list",
@@ -3082,7 +3082,7 @@
             "open_issues": 3,
             "owner": "nirsky",
             "repo": "react-native-size-matters",
-            "stars": 2526,
+            "stars": 2525,
             "topics": [
               "javascript",
               "react-native",
@@ -8350,7 +8350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T09:45:17.671Z",
+    "last_updated": "2026-09-18T09:18:55.132Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Native UI components updated weekly",
