@@ -19,7 +19,7 @@
             "open_issues": 189,
             "owner": "xinthink",
             "repo": "react-native-material-kit",
-            "stars": 4810,
+            "stars": 4811,
             "topics": [
               "material-design",
               "react-native"
@@ -43,7 +43,7 @@
             "open_issues": 134,
             "owner": "akveo",
             "repo": "react-native-ui-kitten",
-            "stars": 10667,
+            "stars": 10668,
             "topics": [
               "react",
               "react-native",
@@ -68,7 +68,7 @@
             "open_issues": 215,
             "owner": "xotahal",
             "repo": "react-native-material-ui",
-            "stars": 3777,
+            "stars": 3778,
             "topics": [
               "android",
               "ios",
@@ -172,7 +172,7 @@
             "open_issues": 86,
             "owner": "wix",
             "repo": "react-native-ui-lib",
-            "stars": 7158,
+            "stars": 7159,
             "topics": [
               "android",
               "components",
@@ -286,7 +286,7 @@
             "open_issues": 19,
             "owner": "oblador",
             "repo": "react-native-vector-icons",
-            "stars": 17915,
+            "stars": 17916,
             "topics": [
               "icon",
               "icon-pack",
@@ -308,11 +308,11 @@
             "id": 48764652,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-13T20:34:06Z",
-            "open_issues": 100,
+            "last_commit": "2026-09-19T16:32:25Z",
+            "open_issues": 94,
             "owner": "react-native-maps",
             "repo": "react-native-maps",
-            "stars": 15996,
+            "stars": 15998,
             "topics": [
               "google-maps",
               "maps",
@@ -334,10 +334,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-02-01T13:04:07Z",
-            "open_issues": 780,
+            "open_issues": 777,
             "owner": "leecade",
             "repo": "react-native-swiper",
-            "stars": 10477,
+            "stars": 10478,
             "topics": [
               "react",
               "react-native",
@@ -494,7 +494,7 @@
             "open_issues": 265,
             "owner": "software-mansion",
             "repo": "react-native-svg",
-            "stars": 8002,
+            "stars": 8003,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -620,7 +620,7 @@
             "open_issues": 412,
             "owner": "crazycodeboy",
             "repo": "react-native-splash-screen",
-            "stars": 5655,
+            "stars": 5656,
             "topics": [
               "android",
               "ios",
@@ -740,7 +740,7 @@
             "open_issues": 161,
             "owner": "maxs15",
             "repo": "react-native-modalbox",
-            "stars": 2915,
+            "stars": 2916,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -803,7 +803,7 @@
             "open_issues": 123,
             "owner": "oblador",
             "repo": "react-native-progress",
-            "stars": 3664,
+            "stars": 3665,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -1257,7 +1257,7 @@
             "open_issues": 72,
             "owner": "meteor-factory",
             "repo": "react-native-tinder-swipe-cards",
-            "stars": 1126,
+            "stars": 1127,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -1278,7 +1278,7 @@
             "open_issues": 95,
             "owner": "magicismight",
             "repo": "react-native-root-toast",
-            "stars": 2135,
+            "stars": 2136,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -1851,7 +1851,7 @@
             "open_issues": 43,
             "owner": "thegamenicorus",
             "repo": "react-native-timeline-listview",
-            "stars": 1179,
+            "stars": 1180,
             "topics": [
               "android",
               "ios",
@@ -2447,7 +2447,7 @@
             "open_issues": 0,
             "owner": "xcarpentier",
             "repo": "react-native-country-picker-modal",
-            "stars": 1111,
+            "stars": 1112,
             "topics": [
               "countries",
               "country-picker",
@@ -3061,7 +3061,7 @@
             "open_issues": 21,
             "owner": "jayesbe",
             "repo": "react-native-cacheable-image",
-            "stars": 301,
+            "stars": 302,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -3082,7 +3082,7 @@
             "open_issues": 3,
             "owner": "nirsky",
             "repo": "react-native-size-matters",
-            "stars": 2524,
+            "stars": 2525,
             "topics": [
               "javascript",
               "react-native",
@@ -8350,7 +8350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T09:05:56.253Z",
+    "last_updated": "2026-09-20T09:32:16.015Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Native UI components updated weekly",
