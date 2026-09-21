@@ -43,7 +43,7 @@
             "open_issues": 134,
             "owner": "akveo",
             "repo": "react-native-ui-kitten",
-            "stars": 10668,
+            "stars": 10669,
             "topics": [
               "react",
               "react-native",
@@ -222,7 +222,7 @@
             "open_issues": 377,
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20374,
+            "stars": 20375,
             "topics": [
               "android",
               "hacktoberfest",
@@ -259,7 +259,7 @@
             "open_issues": 14,
             "owner": "lottie-react-native",
             "repo": "lottie-react-native",
-            "stars": 17205,
+            "stars": 17206,
             "topics": [
               "after-effects",
               "animations",
@@ -286,7 +286,7 @@
             "open_issues": 19,
             "owner": "oblador",
             "repo": "react-native-vector-icons",
-            "stars": 17916,
+            "stars": 17918,
             "topics": [
               "icon",
               "icon-pack",
@@ -308,11 +308,11 @@
             "id": 48764652,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-19T16:32:25Z",
-            "open_issues": 94,
+            "last_commit": "2026-09-20T17:45:51Z",
+            "open_issues": 86,
             "owner": "react-native-maps",
             "repo": "react-native-maps",
-            "stars": 15998,
+            "stars": 15999,
             "topics": [
               "google-maps",
               "maps",
@@ -362,7 +362,7 @@
             "open_issues": 10,
             "owner": "FaridSafi",
             "repo": "react-native-gifted-chat",
-            "stars": 14443,
+            "stars": 14445,
             "topics": [
               "chat",
               "component",
@@ -387,7 +387,7 @@
             "open_issues": 165,
             "owner": "ptomasroos",
             "repo": "react-native-scrollable-tab-view",
-            "stars": 6945,
+            "stars": 6946,
             "topics": [
               "animated",
               "react-native",
@@ -413,7 +413,7 @@
             "open_issues": 348,
             "owner": "react-native-image-picker",
             "repo": "react-native-image-picker",
-            "stars": 8632,
+            "stars": 8633,
             "topics": [
               "image-picker",
               "picker",
@@ -466,7 +466,7 @@
             "open_issues": 150,
             "owner": "wix",
             "repo": "react-native-calendars",
-            "stars": 10310,
+            "stars": 10312,
             "topics": [
               "android",
               "calendar",
@@ -899,7 +899,7 @@
             "open_issues": 475,
             "owner": "DylanVann",
             "repo": "react-native-fast-image",
-            "stars": 8421,
+            "stars": 8422,
             "topics": [
               "cocoapod",
               "glide",
@@ -1774,7 +1774,7 @@
             "open_issues": 48,
             "owner": "instea",
             "repo": "react-native-popup-menu",
-            "stars": 1556,
+            "stars": 1557,
             "topics": [
               "android",
               "animation",
@@ -3082,7 +3082,7 @@
             "open_issues": 3,
             "owner": "nirsky",
             "repo": "react-native-size-matters",
-            "stars": 2525,
+            "stars": 2524,
             "topics": [
               "javascript",
               "react-native",
@@ -5062,7 +5062,7 @@
             "open_issues": 4,
             "owner": "douglasjunior",
             "repo": "react-native-simple-dialogs",
-            "stars": 472,
+            "stars": 473,
             "topics": [
               "android",
               "cross-platform",
@@ -5274,7 +5274,7 @@
             "open_issues": 95,
             "owner": "lawnstarter",
             "repo": "react-native-picker-select",
-            "stars": 1846,
+            "stars": 1847,
             "topics": [
               "dropdown",
               "frontend",
@@ -8350,7 +8350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T09:32:16.015Z",
+    "last_updated": "2026-09-21T10:19:49.026Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Native UI components updated weekly",
