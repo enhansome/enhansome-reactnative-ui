@@ -172,7 +172,7 @@
             "open_issues": 86,
             "owner": "wix",
             "repo": "react-native-ui-lib",
-            "stars": 7159,
+            "stars": 7158,
             "topics": [
               "android",
               "components",
@@ -312,7 +312,7 @@
             "open_issues": 86,
             "owner": "react-native-maps",
             "repo": "react-native-maps",
-            "stars": 15999,
+            "stars": 16000,
             "topics": [
               "google-maps",
               "maps",
@@ -362,7 +362,7 @@
             "open_issues": 10,
             "owner": "FaridSafi",
             "repo": "react-native-gifted-chat",
-            "stars": 14445,
+            "stars": 14447,
             "topics": [
               "chat",
               "component",
@@ -466,7 +466,7 @@
             "open_issues": 150,
             "owner": "wix",
             "repo": "react-native-calendars",
-            "stars": 10312,
+            "stars": 10313,
             "topics": [
               "android",
               "calendar",
@@ -494,7 +494,7 @@
             "open_issues": 265,
             "owner": "software-mansion",
             "repo": "react-native-svg",
-            "stars": 8003,
+            "stars": 8002,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -2601,8 +2601,8 @@
             "id": 52279702,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-14T14:55:37Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-21T15:00:14Z",
+            "open_issues": 6,
             "owner": "byteburgers",
             "repo": "react-native-autocomplete-input",
             "stars": 870,
@@ -3482,11 +3482,11 @@
             "id": 58147263,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T17:44:54Z",
+            "last_commit": "2026-09-22T05:34:26Z",
             "open_issues": 58,
             "owner": "Expensify",
             "repo": "react-native-qrcode-svg",
-            "stars": 1174,
+            "stars": 1175,
             "topics": [
               "node-qrcode",
               "qrcode",
@@ -8350,7 +8350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T10:19:49.026Z",
+    "last_updated": "2026-09-22T09:34:13.301Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Native UI components updated weekly",
