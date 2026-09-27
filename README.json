@@ -34,20 +34,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": ":boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode",
+            "description": "React Native UI library built on the Eva Design System: 30+ themeable, accessible components for iOS, Android and web. TypeScript, React 19 / RN 0.81, Eva and Material themes with runtime light/dark switching, on-demand style compilation.",
             "homepage": "https://akveo.github.io/react-native-ui-kitten/",
             "id": 76937669,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-26T09:38:11Z",
-            "open_issues": 134,
+            "last_commit": "2026-09-27T08:32:10Z",
+            "open_issues": 73,
             "owner": "akveo",
             "repo": "react-native-ui-kitten",
-            "stars": 10668,
+            "stars": 10667,
             "topics": [
+              "design-system",
+              "eva-design-system",
               "react",
               "react-native",
-              "ui-kit"
+              "react-native-web",
+              "typescript",
+              "ui-kit",
+              "ui-library"
             ]
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -256,7 +261,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-09-13T04:59:06Z",
-            "open_issues": 14,
+            "open_issues": 13,
             "owner": "lottie-react-native",
             "repo": "lottie-react-native",
             "stars": 17206,
@@ -309,7 +314,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-20T17:45:51Z",
-            "open_issues": 86,
+            "open_issues": 88,
             "owner": "react-native-maps",
             "repo": "react-native-maps",
             "stars": 15998,
@@ -387,7 +392,7 @@
             "open_issues": 165,
             "owner": "ptomasroos",
             "repo": "react-native-scrollable-tab-view",
-            "stars": 6946,
+            "stars": 6945,
             "topics": [
               "animated",
               "react-native",
@@ -410,7 +415,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-03-17T06:44:06Z",
-            "open_issues": 348,
+            "open_issues": 349,
             "owner": "react-native-image-picker",
             "repo": "react-native-image-picker",
             "stars": 8633,
@@ -466,7 +471,7 @@
             "open_issues": 150,
             "owner": "wix",
             "repo": "react-native-calendars",
-            "stars": 10315,
+            "stars": 10316,
             "topics": [
               "android",
               "calendar",
@@ -895,11 +900,11 @@
             "id": 88124214,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-26T09:35:19Z",
-            "open_issues": 287,
+            "last_commit": "2026-09-27T08:10:32Z",
+            "open_issues": 282,
             "owner": "DylanVann",
             "repo": "react-native-fast-image",
-            "stars": 8417,
+            "stars": 8416,
             "topics": [
               "cocoapod",
               "glide",
@@ -2247,7 +2252,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2020-07-27T08:37:34Z",
-            "open_issues": 15,
+            "open_issues": 14,
             "owner": "Spikef",
             "repo": "react-native-gesture-password",
             "stars": 546,
@@ -2731,7 +2736,7 @@
             "open_issues": 0,
             "owner": "proshoumma",
             "repo": "react-native-off-canvas-menu",
-            "stars": 411,
+            "stars": 410,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -8236,7 +8241,7 @@
             "open_issues": 62,
             "owner": "wix",
             "repo": "react-native-navigation",
-            "stars": 13177,
+            "stars": 13176,
             "topics": [
               "hacktoberfest",
               "navigation",
@@ -8350,7 +8355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T09:38:37.497Z",
+    "last_updated": "2026-09-27T10:18:08.055Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Native UI components updated weekly",
