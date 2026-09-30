@@ -39,11 +39,11 @@
             "id": 76937669,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-28T14:09:37Z",
-            "open_issues": 47,
+            "last_commit": "2026-09-30T09:35:29Z",
+            "open_issues": 48,
             "owner": "akveo",
             "repo": "react-native-ui-kitten",
-            "stars": 10664,
+            "stars": 10663,
             "topics": [
               "design-system",
               "eva-design-system",
@@ -291,7 +291,7 @@
             "open_issues": 19,
             "owner": "oblador",
             "repo": "react-native-vector-icons",
-            "stars": 17917,
+            "stars": 17919,
             "topics": [
               "icon",
               "icon-pack",
@@ -313,8 +313,8 @@
             "id": 48764652,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-27T17:22:23Z",
-            "open_issues": 85,
+            "last_commit": "2026-09-29T13:14:05Z",
+            "open_issues": 87,
             "owner": "react-native-maps",
             "repo": "react-native-maps",
             "stars": 16000,
@@ -415,7 +415,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-03-17T06:44:06Z",
-            "open_issues": 349,
+            "open_issues": 350,
             "owner": "react-native-image-picker",
             "repo": "react-native-image-picker",
             "stars": 8633,
@@ -565,11 +565,11 @@
             "id": 59029620,
             "language": "Objective-C",
             "license": "MIT",
-            "last_commit": "2026-09-25T08:49:16Z",
-            "open_issues": 656,
+            "last_commit": "2026-09-29T14:44:46Z",
+            "open_issues": 652,
             "owner": "ivpusic",
             "repo": "react-native-image-crop-picker",
-            "stars": 6351,
+            "stars": 6350,
             "topics": [
               "android",
               "crop",
@@ -625,7 +625,7 @@
             "open_issues": 412,
             "owner": "crazycodeboy",
             "repo": "react-native-splash-screen",
-            "stars": 5657,
+            "stars": 5656,
             "topics": [
               "android",
               "ios",
@@ -900,11 +900,11 @@
             "id": 88124214,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T10:48:58Z",
-            "open_issues": 279,
+            "last_commit": "2026-09-30T10:39:50Z",
+            "open_issues": 276,
             "owner": "DylanVann",
             "repo": "react-native-fast-image",
-            "stars": 8412,
+            "stars": 8411,
             "topics": [
               "cocoapod",
               "glide",
@@ -1400,7 +1400,7 @@
             "open_issues": 24,
             "owner": "rgommezz",
             "repo": "react-native-offline",
-            "stars": 2362,
+            "stars": 2361,
             "topics": [
               "offline",
               "react",
@@ -1755,7 +1755,7 @@
             "open_issues": 29,
             "owner": "halilb",
             "repo": "react-native-photo-browser",
-            "stars": 719,
+            "stars": 718,
             "topics": [
               "photos",
               "react-native"
@@ -8241,7 +8241,7 @@
             "open_issues": 62,
             "owner": "wix",
             "repo": "react-native-navigation",
-            "stars": 13175,
+            "stars": 13176,
             "topics": [
               "hacktoberfest",
               "navigation",
@@ -8355,7 +8355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T10:59:42.337Z",
+    "last_updated": "2026-09-30T10:50:12.147Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Native UI components updated weekly",
