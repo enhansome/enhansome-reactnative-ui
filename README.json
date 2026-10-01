@@ -43,7 +43,7 @@
             "open_issues": 48,
             "owner": "akveo",
             "repo": "react-native-ui-kitten",
-            "stars": 10663,
+            "stars": 10665,
             "topics": [
               "design-system",
               "eva-design-system",
@@ -227,7 +227,7 @@
             "open_issues": 377,
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20376,
+            "stars": 20375,
             "topics": [
               "android",
               "hacktoberfest",
@@ -291,7 +291,7 @@
             "open_issues": 19,
             "owner": "oblador",
             "repo": "react-native-vector-icons",
-            "stars": 17919,
+            "stars": 17918,
             "topics": [
               "icon",
               "icon-pack",
@@ -314,10 +314,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-29T13:14:05Z",
-            "open_issues": 87,
+            "open_issues": 88,
             "owner": "react-native-maps",
             "repo": "react-native-maps",
-            "stars": 16000,
+            "stars": 16001,
             "topics": [
               "google-maps",
               "maps",
@@ -367,7 +367,7 @@
             "open_issues": 10,
             "owner": "FaridSafi",
             "repo": "react-native-gifted-chat",
-            "stars": 14449,
+            "stars": 14448,
             "topics": [
               "chat",
               "component",
@@ -495,8 +495,8 @@
             "id": 49820627,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-24T18:24:48Z",
-            "open_issues": 266,
+            "last_commit": "2026-10-01T01:42:34Z",
+            "open_issues": 267,
             "owner": "software-mansion",
             "repo": "react-native-svg",
             "stars": 8002,
@@ -745,7 +745,7 @@
             "open_issues": 161,
             "owner": "maxs15",
             "repo": "react-native-modalbox",
-            "stars": 2917,
+            "stars": 2918,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -900,8 +900,8 @@
             "id": 88124214,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T10:39:50Z",
-            "open_issues": 276,
+            "last_commit": "2026-10-01T11:02:00Z",
+            "open_issues": 274,
             "owner": "DylanVann",
             "repo": "react-native-fast-image",
             "stars": 8411,
@@ -3325,8 +3325,8 @@
             "id": 110582391,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-09-28T10:39:23Z",
-            "open_issues": 164,
+            "last_commit": "2026-09-30T22:19:06Z",
+            "open_issues": 162,
             "owner": "FormidableLabs",
             "repo": "react-native-app-auth",
             "stars": 2253,
@@ -3635,7 +3635,7 @@
             "open_issues": 22,
             "owner": "tomzaku",
             "repo": "react-native-shimmer-placeholder",
-            "stars": 1089,
+            "stars": 1088,
             "topics": [
               "module",
               "placeholder",
@@ -7859,7 +7859,7 @@
             "id": 129140285,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-24T23:15:44Z",
+            "last_commit": "2026-10-01T04:50:29Z",
             "open_issues": 33,
             "owner": "maggialejandro",
             "repo": "react-native-calendario",
@@ -8355,7 +8355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T10:50:12.147Z",
+    "last_updated": "2026-10-01T11:16:55.811Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Native UI components updated weekly",
