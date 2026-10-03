@@ -367,7 +367,7 @@
             "open_issues": 9,
             "owner": "FaridSafi",
             "repo": "react-native-gifted-chat",
-            "stars": 14445,
+            "stars": 14444,
             "topics": [
               "chat",
               "component",
@@ -900,11 +900,11 @@
             "id": 88124214,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T23:17:32Z",
-            "open_issues": 280,
+            "last_commit": "2026-10-03T09:33:18Z",
+            "open_issues": 279,
             "owner": "DylanVann",
             "repo": "react-native-fast-image",
-            "stars": 8412,
+            "stars": 8411,
             "topics": [
               "cocoapod",
               "glide",
@@ -1062,7 +1062,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2023-05-05T12:02:07Z",
-            "open_issues": 285,
+            "open_issues": 284,
             "owner": "xgfe",
             "repo": "react-native-datepicker",
             "stars": 2111,
@@ -1400,7 +1400,7 @@
             "open_issues": 24,
             "owner": "rgommezz",
             "repo": "react-native-offline",
-            "stars": 2361,
+            "stars": 2360,
             "topics": [
               "offline",
               "react",
@@ -5067,7 +5067,7 @@
             "open_issues": 4,
             "owner": "douglasjunior",
             "repo": "react-native-simple-dialogs",
-            "stars": 474,
+            "stars": 475,
             "topics": [
               "android",
               "cross-platform",
@@ -8355,7 +8355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:04:22.588Z",
+    "last_updated": "2026-10-03T10:08:50.235Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Native UI components updated weekly",
