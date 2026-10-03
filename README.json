@@ -177,7 +177,7 @@
             "open_issues": 84,
             "owner": "wix",
             "repo": "react-native-ui-lib",
-            "stars": 7157,
+            "stars": 7156,
             "topics": [
               "android",
               "components",
@@ -291,7 +291,7 @@
             "open_issues": 19,
             "owner": "oblador",
             "repo": "react-native-vector-icons",
-            "stars": 17919,
+            "stars": 17918,
             "topics": [
               "icon",
               "icon-pack",
@@ -367,7 +367,7 @@
             "open_issues": 9,
             "owner": "FaridSafi",
             "repo": "react-native-gifted-chat",
-            "stars": 14448,
+            "stars": 14445,
             "topics": [
               "chat",
               "component",
@@ -415,7 +415,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-03-17T06:44:06Z",
-            "open_issues": 350,
+            "open_issues": 351,
             "owner": "react-native-image-picker",
             "repo": "react-native-image-picker",
             "stars": 8633,
@@ -900,8 +900,8 @@
             "id": 88124214,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T09:34:47Z",
-            "open_issues": 276,
+            "last_commit": "2026-10-02T23:17:32Z",
+            "open_issues": 280,
             "owner": "DylanVann",
             "repo": "react-native-fast-image",
             "stars": 8412,
@@ -3214,7 +3214,7 @@
             "id": 94996777,
             "language": "Objective-C",
             "license": "MIT",
-            "last_commit": "2026-09-26T00:09:13Z",
+            "last_commit": "2026-10-03T00:08:53Z",
             "open_issues": 1,
             "owner": "douglasjunior",
             "repo": "react-native-keyboard-manager",
@@ -3329,7 +3329,7 @@
             "open_issues": 162,
             "owner": "FormidableLabs",
             "repo": "react-native-app-auth",
-            "stars": 2253,
+            "stars": 2252,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -5063,7 +5063,7 @@
             "id": 94703864,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-26T03:26:29Z",
+            "last_commit": "2026-10-03T03:44:17Z",
             "open_issues": 4,
             "owner": "douglasjunior",
             "repo": "react-native-simple-dialogs",
@@ -5276,7 +5276,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-07-20T14:03:51Z",
-            "open_issues": 95,
+            "open_issues": 97,
             "owner": "lawnstarter",
             "repo": "react-native-picker-select",
             "stars": 1846,
@@ -8355,7 +8355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:49:15.505Z",
+    "last_updated": "2026-10-03T05:04:22.588Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Native UI components updated weekly",
