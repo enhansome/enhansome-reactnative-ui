@@ -317,7 +317,7 @@
             "open_issues": 90,
             "owner": "react-native-maps",
             "repo": "react-native-maps",
-            "stars": 16005,
+            "stars": 16004,
             "topics": [
               "google-maps",
               "maps",
@@ -900,8 +900,8 @@
             "id": 88124214,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T05:05:26Z",
-            "open_issues": 274,
+            "last_commit": "2026-10-06T11:28:30Z",
+            "open_issues": 278,
             "owner": "DylanVann",
             "repo": "react-native-fast-image",
             "stars": 8410,
@@ -8364,7 +8364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:27:00.370Z",
+    "last_updated": "2026-10-06T11:37:37.292Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Native UI components updated weekly",
