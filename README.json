@@ -19,7 +19,7 @@
             "open_issues": 189,
             "owner": "xinthink",
             "repo": "react-native-material-kit",
-            "stars": 4812,
+            "stars": 4811,
             "topics": [
               "material-design",
               "react-native"
@@ -43,7 +43,7 @@
             "open_issues": 15,
             "owner": "akveo",
             "repo": "react-native-ui-kitten",
-            "stars": 10665,
+            "stars": 10663,
             "topics": [
               "design-system",
               "eva-design-system",
@@ -73,7 +73,7 @@
             "open_issues": 215,
             "owner": "xotahal",
             "repo": "react-native-material-ui",
-            "stars": 3779,
+            "stars": 3778,
             "topics": [
               "android",
               "ios",
@@ -177,7 +177,7 @@
             "open_issues": 74,
             "owner": "wix",
             "repo": "react-native-ui-lib",
-            "stars": 7157,
+            "stars": 7156,
             "topics": [
               "android",
               "components",
@@ -227,7 +227,7 @@
             "open_issues": 377,
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20374,
+            "stars": 20372,
             "topics": [
               "android",
               "hacktoberfest",
@@ -264,7 +264,7 @@
             "open_issues": 16,
             "owner": "lottie-react-native",
             "repo": "lottie-react-native",
-            "stars": 17207,
+            "stars": 17206,
             "topics": [
               "after-effects",
               "animations",
@@ -291,7 +291,7 @@
             "open_issues": 19,
             "owner": "oblador",
             "repo": "react-native-vector-icons",
-            "stars": 17918,
+            "stars": 17920,
             "topics": [
               "icon",
               "icon-pack",
@@ -317,7 +317,7 @@
             "open_issues": 90,
             "owner": "react-native-maps",
             "repo": "react-native-maps",
-            "stars": 16004,
+            "stars": 16005,
             "topics": [
               "google-maps",
               "maps",
@@ -468,10 +468,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-05T13:40:03Z",
-            "open_issues": 149,
+            "open_issues": 148,
             "owner": "wix",
             "repo": "react-native-calendars",
-            "stars": 10318,
+            "stars": 10317,
             "topics": [
               "android",
               "calendar",
@@ -499,7 +499,7 @@
             "open_issues": 271,
             "owner": "software-mansion",
             "repo": "react-native-svg",
-            "stars": 8002,
+            "stars": 8003,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -541,7 +541,7 @@
             "open_issues": 80,
             "owner": "FuYaoDe",
             "repo": "react-native-app-intro",
-            "stars": 3244,
+            "stars": 3242,
             "topics": [
               "android",
               "intro",
@@ -600,7 +600,7 @@
             "open_issues": 250,
             "owner": "margelo",
             "repo": "react-native-blur",
-            "stars": 3877,
+            "stars": 3878,
             "topics": [
               "react-native",
               "react-native-blur",
@@ -625,7 +625,7 @@
             "open_issues": 412,
             "owner": "crazycodeboy",
             "repo": "react-native-splash-screen",
-            "stars": 5659,
+            "stars": 5658,
             "topics": [
               "android",
               "ios",
@@ -675,7 +675,7 @@
             "open_issues": 18,
             "owner": "hectahertz",
             "repo": "react-native-typography",
-            "stars": 3558,
+            "stars": 3559,
             "topics": [
               "android",
               "ios",
@@ -900,11 +900,11 @@
             "id": 88124214,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T11:28:30Z",
+            "last_commit": "2026-10-06T23:11:09Z",
             "open_issues": 278,
             "owner": "DylanVann",
             "repo": "react-native-fast-image",
-            "stars": 8410,
+            "stars": 8411,
             "topics": [
               "cocoapod",
               "glide",
@@ -1180,7 +1180,7 @@
             "open_issues": 96,
             "owner": "oblador",
             "repo": "react-native-collapsible",
-            "stars": 2596,
+            "stars": 2595,
             "topics": [
               "accordion",
               "animation",
@@ -1575,7 +1575,7 @@
             "open_issues": 45,
             "owner": "umhan35",
             "repo": "react-native-search-bar",
-            "stars": 865,
+            "stars": 864,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -1618,7 +1618,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2023-01-11T01:07:10Z",
-            "open_issues": 40,
+            "open_issues": 39,
             "owner": "brh55",
             "repo": "react-native-masonry",
             "stars": 1375,
@@ -2022,7 +2022,7 @@
             "open_issues": 27,
             "owner": "naoufal",
             "repo": "react-native-activity-view",
-            "stars": 477,
+            "stars": 476,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -2610,7 +2610,7 @@
             "open_issues": 1,
             "owner": "byteburgers",
             "repo": "react-native-autocomplete-input",
-            "stars": 870,
+            "stars": 871,
             "topics": [
               "android",
               "autocomplete",
@@ -3245,7 +3245,7 @@
             "open_issues": 71,
             "owner": "octopitus",
             "repo": "rn-sliding-up-panel",
-            "stars": 920,
+            "stars": 919,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -3325,8 +3325,8 @@
             "id": 110582391,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-01T17:31:59Z",
-            "open_issues": 162,
+            "last_commit": "2026-10-06T16:43:00Z",
+            "open_issues": 161,
             "owner": "FormidableLabs",
             "repo": "react-native-app-auth",
             "stars": 2251,
@@ -4815,7 +4815,7 @@
             "open_issues": 10,
             "owner": "rafaelmotta",
             "repo": "react-native-scl-alert",
-            "stars": 215,
+            "stars": 214,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -5067,7 +5067,7 @@
             "open_issues": 4,
             "owner": "douglasjunior",
             "repo": "react-native-simple-dialogs",
-            "stars": 475,
+            "stars": 476,
             "topics": [
               "android",
               "cross-platform",
@@ -5279,7 +5279,7 @@
             "open_issues": 97,
             "owner": "lawnstarter",
             "repo": "react-native-picker-select",
-            "stars": 1846,
+            "stars": 1843,
             "topics": [
               "dropdown",
               "frontend",
@@ -6469,7 +6469,7 @@
             "open_issues": 0,
             "owner": "ApplikeySolutions",
             "repo": "RocketButton",
-            "stars": 66,
+            "stars": 65,
             "topics": [
               "android",
               "animation",
@@ -7237,7 +7237,7 @@
             "open_issues": 66,
             "owner": "jasongaare",
             "repo": "react-native-walkthrough-tooltip",
-            "stars": 688,
+            "stars": 687,
             "topics": [
               "highlighting",
               "react-native",
@@ -7867,7 +7867,7 @@
             "open_issues": 34,
             "owner": "maggialejandro",
             "repo": "react-native-calendario",
-            "stars": 534,
+            "stars": 535,
             "topics": [
               "android",
               "calendar",
@@ -8364,7 +8364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:37:37.292Z",
+    "last_updated": "2026-10-07T11:26:57.191Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Native UI components updated weekly",
@@ -8376,7 +8376,7 @@
       "open_issues": 11,
       "owner": "madhavanmalolan",
       "repo": "awesome-reactnative-ui",
-      "stars": 3467,
+      "stars": 3465,
       "topics": []
     },
     "original_repository_sha": "41b054c4d4ae63c1c3165e59e8738b23ef392bc7",
