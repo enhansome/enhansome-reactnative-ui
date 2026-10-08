@@ -177,7 +177,7 @@
             "open_issues": 74,
             "owner": "wix",
             "repo": "react-native-ui-lib",
-            "stars": 7156,
+            "stars": 7157,
             "topics": [
               "android",
               "components",
@@ -264,7 +264,7 @@
             "open_issues": 16,
             "owner": "lottie-react-native",
             "repo": "lottie-react-native",
-            "stars": 17206,
+            "stars": 17207,
             "topics": [
               "after-effects",
               "animations",
@@ -314,7 +314,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-29T13:14:05Z",
-            "open_issues": 90,
+            "open_issues": 92,
             "owner": "react-native-maps",
             "repo": "react-native-maps",
             "stars": 16005,
@@ -342,7 +342,7 @@
             "open_issues": 780,
             "owner": "leecade",
             "repo": "react-native-swiper",
-            "stars": 10479,
+            "stars": 10480,
             "topics": [
               "react",
               "react-native",
@@ -471,7 +471,7 @@
             "open_issues": 148,
             "owner": "wix",
             "repo": "react-native-calendars",
-            "stars": 10317,
+            "stars": 10318,
             "topics": [
               "android",
               "calendar",
@@ -496,10 +496,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-01T01:42:34Z",
-            "open_issues": 271,
+            "open_issues": 270,
             "owner": "software-mansion",
             "repo": "react-native-svg",
-            "stars": 8003,
+            "stars": 8004,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -724,7 +724,7 @@
             "open_issues": 28,
             "owner": "halilb",
             "repo": "react-native-textinput-effects",
-            "stars": 2979,
+            "stars": 2978,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -900,11 +900,11 @@
             "id": 88124214,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T23:11:09Z",
+            "last_commit": "2026-10-08T09:58:29Z",
             "open_issues": 278,
             "owner": "DylanVann",
             "repo": "react-native-fast-image",
-            "stars": 8411,
+            "stars": 8412,
             "topics": [
               "cocoapod",
               "glide",
@@ -1400,7 +1400,7 @@
             "open_issues": 24,
             "owner": "rgommezz",
             "repo": "react-native-offline",
-            "stars": 2360,
+            "stars": 2361,
             "topics": [
               "offline",
               "react",
@@ -3218,7 +3218,7 @@
             "open_issues": 1,
             "owner": "douglasjunior",
             "repo": "react-native-keyboard-manager",
-            "stars": 1001,
+            "stars": 1002,
             "topics": [
               "hacktoberfest",
               "ios",
@@ -7233,8 +7233,8 @@
             "id": 130010516,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2024-05-10T19:40:50Z",
-            "open_issues": 66,
+            "last_commit": "2026-10-08T03:33:44Z",
+            "open_issues": 61,
             "owner": "jasongaare",
             "repo": "react-native-walkthrough-tooltip",
             "stars": 687,
@@ -8250,7 +8250,7 @@
             "open_issues": 57,
             "owner": "wix",
             "repo": "react-native-navigation",
-            "stars": 13174,
+            "stars": 13175,
             "topics": [
               "hacktoberfest",
               "navigation",
@@ -8364,7 +8364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T11:26:57.191Z",
+    "last_updated": "2026-10-08T11:42:38.881Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Native UI components updated weekly",
