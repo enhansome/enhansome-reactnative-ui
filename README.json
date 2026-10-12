@@ -19,7 +19,7 @@
             "open_issues": 189,
             "owner": "xinthink",
             "repo": "react-native-material-kit",
-            "stars": 4808,
+            "stars": 4807,
             "topics": [
               "material-design",
               "react-native"
@@ -100,7 +100,7 @@
             "open_issues": 13,
             "owner": "nachos-ui",
             "repo": "nachos-ui",
-            "stars": 2054,
+            "stars": 2053,
             "topics": [
               "react",
               "react-native",
@@ -173,7 +173,7 @@
             "id": 81314550,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-05T13:40:09Z",
+            "last_commit": "2026-10-12T09:10:40Z",
             "open_issues": 75,
             "owner": "wix",
             "repo": "react-native-ui-lib",
@@ -287,11 +287,11 @@
             "id": 35685034,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-08T14:48:30Z",
-            "open_issues": 20,
+            "last_commit": "2026-10-12T08:53:09Z",
+            "open_issues": 16,
             "owner": "oblador",
             "repo": "react-native-vector-icons",
-            "stars": 17918,
+            "stars": 17916,
             "topics": [
               "icon",
               "icon-pack",
@@ -314,10 +314,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-29T13:14:05Z",
-            "open_issues": 90,
+            "open_issues": 91,
             "owner": "react-native-maps",
             "repo": "react-native-maps",
-            "stars": 16006,
+            "stars": 16005,
             "topics": [
               "google-maps",
               "maps",
@@ -367,7 +367,7 @@
             "open_issues": 9,
             "owner": "FaridSafi",
             "repo": "react-native-gifted-chat",
-            "stars": 14440,
+            "stars": 14439,
             "topics": [
               "chat",
               "component",
@@ -418,7 +418,7 @@
             "open_issues": 352,
             "owner": "react-native-image-picker",
             "repo": "react-native-image-picker",
-            "stars": 8634,
+            "stars": 8633,
             "topics": [
               "image-picker",
               "picker",
@@ -471,7 +471,7 @@
             "open_issues": 148,
             "owner": "wix",
             "repo": "react-native-calendars",
-            "stars": 10318,
+            "stars": 10319,
             "topics": [
               "android",
               "calendar",
@@ -499,7 +499,7 @@
             "open_issues": 274,
             "owner": "software-mansion",
             "repo": "react-native-svg",
-            "stars": 8005,
+            "stars": 8006,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -569,7 +569,7 @@
             "open_issues": 653,
             "owner": "ivpusic",
             "repo": "react-native-image-crop-picker",
-            "stars": 6352,
+            "stars": 6351,
             "topics": [
               "android",
               "crop",
@@ -625,7 +625,7 @@
             "open_issues": 412,
             "owner": "crazycodeboy",
             "repo": "react-native-splash-screen",
-            "stars": 5658,
+            "stars": 5657,
             "topics": [
               "android",
               "ios",
@@ -900,7 +900,7 @@
             "id": 88124214,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-11T10:48:48Z",
+            "last_commit": "2026-10-12T12:36:00Z",
             "open_issues": 282,
             "owner": "DylanVann",
             "repo": "react-native-fast-image",
@@ -1044,7 +1044,7 @@
             "open_issues": 1,
             "owner": "corymsmith",
             "repo": "react-native-icons",
-            "stars": 1139,
+            "stars": 1138,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -1283,7 +1283,7 @@
             "open_issues": 95,
             "owner": "magicismight",
             "repo": "react-native-root-toast",
-            "stars": 2138,
+            "stars": 2137,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -1479,7 +1479,7 @@
             "open_issues": 23,
             "owner": "ide",
             "repo": "react-native-button",
-            "stars": 768,
+            "stars": 767,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -2198,7 +2198,7 @@
             "open_issues": 57,
             "owner": "djchie",
             "repo": "react-native-star-rating",
-            "stars": 828,
+            "stars": 827,
             "topics": [
               "component",
               "custom-star",
@@ -2606,8 +2606,8 @@
             "id": 52279702,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-10T22:36:04Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-11T14:16:48Z",
+            "open_issues": 2,
             "owner": "byteburgers",
             "repo": "react-native-autocomplete-input",
             "stars": 871,
@@ -2639,7 +2639,7 @@
             "open_issues": 62,
             "owner": "crazycodeboy",
             "repo": "react-native-check-box",
-            "stars": 525,
+            "stars": 526,
             "topics": [
               "check-box",
               "checkbox-component",
@@ -3329,7 +3329,7 @@
             "open_issues": 163,
             "owner": "FormidableLabs",
             "repo": "react-native-app-auth",
-            "stars": 2251,
+            "stars": 2252,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -8364,7 +8364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T11:08:08.122Z",
+    "last_updated": "2026-10-12T12:37:25.835Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Native UI components updated weekly",
