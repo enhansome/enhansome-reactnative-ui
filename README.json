@@ -43,7 +43,7 @@
             "open_issues": 15,
             "owner": "akveo",
             "repo": "react-native-ui-kitten",
-            "stars": 10664,
+            "stars": 10665,
             "topics": [
               "design-system",
               "eva-design-system",
@@ -260,11 +260,11 @@
             "id": 80233816,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T13:29:04Z",
-            "open_issues": 15,
+            "last_commit": "2026-10-13T08:23:34Z",
+            "open_issues": 16,
             "owner": "lottie-react-native",
             "repo": "lottie-react-native",
-            "stars": 17204,
+            "stars": 17202,
             "topics": [
               "after-effects",
               "animations",
@@ -291,7 +291,7 @@
             "open_issues": 16,
             "owner": "oblador",
             "repo": "react-native-vector-icons",
-            "stars": 17916,
+            "stars": 17915,
             "topics": [
               "icon",
               "icon-pack",
@@ -314,7 +314,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-29T13:14:05Z",
-            "open_issues": 91,
+            "open_issues": 93,
             "owner": "react-native-maps",
             "repo": "react-native-maps",
             "stars": 16005,
@@ -342,7 +342,7 @@
             "open_issues": 779,
             "owner": "leecade",
             "repo": "react-native-swiper",
-            "stars": 10479,
+            "stars": 10480,
             "topics": [
               "react",
               "react-native",
@@ -367,7 +367,7 @@
             "open_issues": 9,
             "owner": "FaridSafi",
             "repo": "react-native-gifted-chat",
-            "stars": 14439,
+            "stars": 14438,
             "topics": [
               "chat",
               "component",
@@ -415,7 +415,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-03-17T06:44:06Z",
-            "open_issues": 352,
+            "open_issues": 353,
             "owner": "react-native-image-picker",
             "repo": "react-native-image-picker",
             "stars": 8633,
@@ -471,7 +471,7 @@
             "open_issues": 148,
             "owner": "wix",
             "repo": "react-native-calendars",
-            "stars": 10319,
+            "stars": 10320,
             "topics": [
               "android",
               "calendar",
@@ -495,8 +495,8 @@
             "id": 49820627,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T01:42:34Z",
-            "open_issues": 274,
+            "last_commit": "2026-10-13T04:37:44Z",
+            "open_issues": 277,
             "owner": "software-mansion",
             "repo": "react-native-svg",
             "stars": 8006,
@@ -900,11 +900,11 @@
             "id": 88124214,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T12:36:00Z",
-            "open_issues": 282,
+            "last_commit": "2026-10-12T17:43:32Z",
+            "open_issues": 13,
             "owner": "DylanVann",
             "repo": "react-native-fast-image",
-            "stars": 8411,
+            "stars": 8409,
             "topics": [
               "cocoapod",
               "glide",
@@ -934,7 +934,7 @@
             "open_issues": 46,
             "owner": "maxs15",
             "repo": "react-native-spinkit",
-            "stars": 2429,
+            "stars": 2430,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -1806,7 +1806,7 @@
             "open_issues": 24,
             "owner": "mfrachet",
             "repo": "rn-placeholder",
-            "stars": 2121,
+            "stars": 2122,
             "topics": [
               "placeholder",
               "react",
@@ -3218,7 +3218,7 @@
             "open_issues": 1,
             "owner": "douglasjunior",
             "repo": "react-native-keyboard-manager",
-            "stars": 1002,
+            "stars": 1001,
             "topics": [
               "hacktoberfest",
               "ios",
@@ -4135,7 +4135,7 @@
             "open_issues": 13,
             "owner": "chitezh",
             "repo": "react-native-swiper-animated",
-            "stars": 220,
+            "stars": 219,
             "topics": [
               "animations-swiper",
               "react-native",
@@ -7863,7 +7863,7 @@
             "id": 129140285,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-05T19:05:27Z",
+            "last_commit": "2026-10-13T12:11:39Z",
             "open_issues": 34,
             "owner": "maggialejandro",
             "repo": "react-native-calendario",
@@ -8364,7 +8364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T12:37:25.835Z",
+    "last_updated": "2026-10-13T12:23:27.565Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Native UI components updated weekly",
