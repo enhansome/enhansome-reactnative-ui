@@ -227,7 +227,7 @@
             "open_issues": 377,
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20367,
+            "stars": 20368,
             "topics": [
               "android",
               "hacktoberfest",
@@ -314,10 +314,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-19T19:00:34Z",
-            "open_issues": 105,
+            "open_issues": 106,
             "owner": "react-native-maps",
             "repo": "react-native-maps",
-            "stars": 16011,
+            "stars": 16012,
             "topics": [
               "google-maps",
               "maps",
@@ -471,7 +471,7 @@
             "open_issues": 150,
             "owner": "wix",
             "repo": "react-native-calendars",
-            "stars": 10328,
+            "stars": 10327,
             "topics": [
               "android",
               "calendar",
@@ -625,7 +625,7 @@
             "open_issues": 412,
             "owner": "crazycodeboy",
             "repo": "react-native-splash-screen",
-            "stars": 5655,
+            "stars": 5654,
             "topics": [
               "android",
               "ios",
@@ -724,7 +724,7 @@
             "open_issues": 28,
             "owner": "halilb",
             "repo": "react-native-textinput-effects",
-            "stars": 2978,
+            "stars": 2977,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -900,11 +900,11 @@
             "id": 88124214,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-22T09:41:14Z",
-            "open_issues": 15,
+            "last_commit": "2026-10-23T09:33:05Z",
+            "open_issues": 14,
             "owner": "DylanVann",
             "repo": "react-native-fast-image",
-            "stars": 8420,
+            "stars": 8421,
             "topics": [
               "cocoapod",
               "glide",
@@ -1086,7 +1086,7 @@
             "open_issues": 28,
             "owner": "aksonov",
             "repo": "react-native-tableview",
-            "stars": 1406,
+            "stars": 1405,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -5067,7 +5067,7 @@
             "open_issues": 4,
             "owner": "douglasjunior",
             "repo": "react-native-simple-dialogs",
-            "stars": 479,
+            "stars": 480,
             "topics": [
               "android",
               "cross-platform",
@@ -7863,7 +7863,7 @@
             "id": 129140285,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-20T10:05:28Z",
+            "last_commit": "2026-10-22T15:16:21Z",
             "open_issues": 34,
             "owner": "maggialejandro",
             "repo": "react-native-calendario",
@@ -8246,7 +8246,7 @@
             "id": 53662249,
             "language": "MDX",
             "license": "MIT",
-            "last_commit": "2026-10-22T09:14:43Z",
+            "last_commit": "2026-10-22T13:19:09Z",
             "open_issues": 57,
             "owner": "wix",
             "repo": "react-native-navigation",
@@ -8364,7 +8364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T09:45:26.849Z",
+    "last_updated": "2026-10-23T09:41:27.569Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Native UI components updated weekly",
