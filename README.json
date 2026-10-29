@@ -177,7 +177,7 @@
             "open_issues": 84,
             "owner": "wix",
             "repo": "react-native-ui-lib",
-            "stars": 7156,
+            "stars": 7158,
             "topics": [
               "android",
               "components",
@@ -264,7 +264,7 @@
             "open_issues": 23,
             "owner": "lottie-react-native",
             "repo": "lottie-react-native",
-            "stars": 17211,
+            "stars": 17212,
             "topics": [
               "after-effects",
               "animations",
@@ -291,7 +291,7 @@
             "open_issues": 14,
             "owner": "oblador",
             "repo": "react-native-vector-icons",
-            "stars": 17923,
+            "stars": 17922,
             "topics": [
               "icon",
               "icon-pack",
@@ -342,7 +342,7 @@
             "open_issues": 779,
             "owner": "leecade",
             "repo": "react-native-swiper",
-            "stars": 10476,
+            "stars": 10477,
             "topics": [
               "react",
               "react-native",
@@ -367,7 +367,7 @@
             "open_issues": 8,
             "owner": "FaridSafi",
             "repo": "react-native-gifted-chat",
-            "stars": 14446,
+            "stars": 14447,
             "topics": [
               "chat",
               "component",
@@ -495,8 +495,8 @@
             "id": 49820627,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-25T21:01:27Z",
-            "open_issues": 264,
+            "last_commit": "2026-10-29T09:48:45Z",
+            "open_issues": 265,
             "owner": "software-mansion",
             "repo": "react-native-svg",
             "stars": 8007,
@@ -900,7 +900,7 @@
             "id": 88124214,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-28T10:34:07Z",
+            "last_commit": "2026-10-29T06:59:19Z",
             "open_issues": 13,
             "owner": "DylanVann",
             "repo": "react-native-fast-image",
@@ -3487,8 +3487,8 @@
             "id": 58147263,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T21:58:27Z",
-            "open_issues": 67,
+            "last_commit": "2026-10-28T20:49:16Z",
+            "open_issues": 66,
             "owner": "Expensify",
             "repo": "react-native-qrcode-svg",
             "stars": 1175,
@@ -8215,7 +8215,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2025-06-05T18:28:03Z",
-            "open_issues": 82,
+            "open_issues": 83,
             "owner": "henninghall",
             "repo": "react-native-date-picker",
             "stars": 2509,
@@ -8364,7 +8364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T10:54:48.345Z",
+    "last_updated": "2026-10-29T11:12:45.070Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Native UI components updated weekly",
