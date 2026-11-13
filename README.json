@@ -227,7 +227,7 @@
             "open_issues": 377,
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20368,
+            "stars": 20369,
             "topics": [
               "android",
               "hacktoberfest",
@@ -392,7 +392,7 @@
             "open_issues": 165,
             "owner": "ptomasroos",
             "repo": "react-native-scrollable-tab-view",
-            "stars": 6941,
+            "stars": 6940,
             "topics": [
               "animated",
               "react-native",
@@ -443,7 +443,7 @@
             "open_issues": 403,
             "owner": "meliorence",
             "repo": "react-native-snap-carousel",
-            "stars": 10489,
+            "stars": 10488,
             "topics": [
               "advanced-effects",
               "carousel",
@@ -471,7 +471,7 @@
             "open_issues": 141,
             "owner": "wix",
             "repo": "react-native-calendars",
-            "stars": 10324,
+            "stars": 10325,
             "topics": [
               "android",
               "calendar",
@@ -495,8 +495,8 @@
             "id": 49820627,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-11T13:21:35Z",
-            "open_issues": 277,
+            "last_commit": "2026-11-12T15:18:56Z",
+            "open_issues": 275,
             "owner": "software-mansion",
             "repo": "react-native-svg",
             "stars": 8013,
@@ -625,7 +625,7 @@
             "open_issues": 412,
             "owner": "crazycodeboy",
             "repo": "react-native-splash-screen",
-            "stars": 5652,
+            "stars": 5653,
             "topics": [
               "android",
               "ios",
@@ -675,7 +675,7 @@
             "open_issues": 18,
             "owner": "hectahertz",
             "repo": "react-native-typography",
-            "stars": 3558,
+            "stars": 3559,
             "topics": [
               "android",
               "ios",
@@ -904,7 +904,7 @@
             "open_issues": 12,
             "owner": "DylanVann",
             "repo": "react-native-fast-image",
-            "stars": 8419,
+            "stars": 8420,
             "topics": [
               "cocoapod",
               "glide",
@@ -1230,7 +1230,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-06-19T12:57:31Z",
-            "open_issues": 130,
+            "open_issues": 131,
             "owner": "jacklam718",
             "repo": "react-native-modals",
             "stars": 2204,
@@ -1618,7 +1618,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2023-01-11T01:07:10Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "brh55",
             "repo": "react-native-masonry",
             "stars": 1375,
@@ -1975,7 +1975,7 @@
             "open_issues": 26,
             "owner": "jeanregisser",
             "repo": "react-native-popover",
-            "stars": 674,
+            "stars": 675,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -2043,7 +2043,7 @@
             "open_issues": 85,
             "owner": "24ark",
             "repo": "react-native-step-indicator",
-            "stars": 1457,
+            "stars": 1456,
             "topics": [
               "listview",
               "progress-view",
@@ -3087,7 +3087,7 @@
             "open_issues": 3,
             "owner": "nirsky",
             "repo": "react-native-size-matters",
-            "stars": 2521,
+            "stars": 2522,
             "topics": [
               "javascript",
               "react-native",
@@ -3918,7 +3918,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2023-01-03T17:40:15Z",
-            "open_issues": 29,
+            "open_issues": 28,
             "owner": "monterosalondon",
             "repo": "react-native-parallax-scroll",
             "stars": 549,
@@ -5254,7 +5254,7 @@
             "id": 106606965,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-11T22:19:27Z",
+            "last_commit": "2026-11-12T23:07:36Z",
             "open_issues": 15,
             "owner": "App2Sales",
             "repo": "react-native-switch-selector",
@@ -8250,7 +8250,7 @@
             "open_issues": 61,
             "owner": "wix",
             "repo": "react-native-navigation",
-            "stars": 13170,
+            "stars": 13169,
             "topics": [
               "hacktoberfest",
               "navigation",
@@ -8364,7 +8364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T13:28:18.773Z",
+    "last_updated": "2026-11-13T12:44:53.818Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Native UI components updated weekly",
@@ -8376,7 +8376,7 @@
       "open_issues": 12,
       "owner": "madhavanmalolan",
       "repo": "awesome-reactnative-ui",
-      "stars": 3463,
+      "stars": 3462,
       "topics": []
     },
     "original_repository_sha": "41b054c4d4ae63c1c3165e59e8738b23ef392bc7",
