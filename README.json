@@ -173,8 +173,8 @@
             "id": 81314550,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-11T11:20:57Z",
-            "open_issues": 87,
+            "last_commit": "2026-11-13T17:05:29Z",
+            "open_issues": 88,
             "owner": "wix",
             "repo": "react-native-ui-lib",
             "stars": 7160,
@@ -227,7 +227,7 @@
             "open_issues": 377,
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20369,
+            "stars": 20368,
             "topics": [
               "android",
               "hacktoberfest",
@@ -260,11 +260,11 @@
             "id": 80233816,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T17:35:45Z",
-            "open_issues": 23,
+            "last_commit": "2026-11-13T19:24:58Z",
+            "open_issues": 24,
             "owner": "lottie-react-native",
             "repo": "lottie-react-native",
-            "stars": 17216,
+            "stars": 17215,
             "topics": [
               "after-effects",
               "animations",
@@ -291,7 +291,7 @@
             "open_issues": 14,
             "owner": "oblador",
             "repo": "react-native-vector-icons",
-            "stars": 17931,
+            "stars": 17930,
             "topics": [
               "icon",
               "icon-pack",
@@ -313,11 +313,11 @@
             "id": 48764652,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-08T01:32:32Z",
-            "open_issues": 99,
+            "last_commit": "2026-11-13T16:19:44Z",
+            "open_issues": 104,
             "owner": "react-native-maps",
             "repo": "react-native-maps",
-            "stars": 16018,
+            "stars": 16016,
             "topics": [
               "google-maps",
               "maps",
@@ -342,7 +342,7 @@
             "open_issues": 780,
             "owner": "leecade",
             "repo": "react-native-swiper",
-            "stars": 10475,
+            "stars": 10474,
             "topics": [
               "react",
               "react-native",
@@ -367,7 +367,7 @@
             "open_issues": 2,
             "owner": "FaridSafi",
             "repo": "react-native-gifted-chat",
-            "stars": 14448,
+            "stars": 14449,
             "topics": [
               "chat",
               "component",
@@ -418,7 +418,7 @@
             "open_issues": 353,
             "owner": "react-native-image-picker",
             "repo": "react-native-image-picker",
-            "stars": 8633,
+            "stars": 8631,
             "topics": [
               "image-picker",
               "picker",
@@ -443,7 +443,7 @@
             "open_issues": 403,
             "owner": "meliorence",
             "repo": "react-native-snap-carousel",
-            "stars": 10488,
+            "stars": 10485,
             "topics": [
               "advanced-effects",
               "carousel",
@@ -495,11 +495,11 @@
             "id": 49820627,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-12T15:18:56Z",
-            "open_issues": 275,
+            "last_commit": "2026-11-13T15:51:54Z",
+            "open_issues": 278,
             "owner": "software-mansion",
             "repo": "react-native-svg",
-            "stars": 8013,
+            "stars": 8012,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -565,8 +565,8 @@
             "id": 59029620,
             "language": "Objective-C",
             "license": "MIT",
-            "last_commit": "2026-10-15T20:50:51Z",
-            "open_issues": 651,
+            "last_commit": "2026-11-13T16:08:07Z",
+            "open_issues": 652,
             "owner": "ivpusic",
             "repo": "react-native-image-crop-picker",
             "stars": 6350,
@@ -675,7 +675,7 @@
             "open_issues": 18,
             "owner": "hectahertz",
             "repo": "react-native-typography",
-            "stars": 3559,
+            "stars": 3558,
             "topics": [
               "android",
               "ios",
@@ -904,7 +904,7 @@
             "open_issues": 12,
             "owner": "DylanVann",
             "repo": "react-native-fast-image",
-            "stars": 8420,
+            "stars": 8419,
             "topics": [
               "cocoapod",
               "glide",
@@ -1180,7 +1180,7 @@
             "open_issues": 96,
             "owner": "oblador",
             "repo": "react-native-collapsible",
-            "stars": 2594,
+            "stars": 2593,
             "topics": [
               "accordion",
               "animation",
@@ -1547,7 +1547,7 @@
             "open_issues": 6,
             "owner": "sbycrosz",
             "repo": "react-native-credit-card-input",
-            "stars": 1508,
+            "stars": 1507,
             "topics": [
               "android",
               "component",
@@ -1856,7 +1856,7 @@
             "open_issues": 43,
             "owner": "thegamenicorus",
             "repo": "react-native-timeline-listview",
-            "stars": 1182,
+            "stars": 1181,
             "topics": [
               "android",
               "ios",
@@ -2098,7 +2098,7 @@
             "open_issues": 218,
             "owner": "JesperLekland",
             "repo": "react-native-svg-charts",
-            "stars": 2397,
+            "stars": 2396,
             "topics": [
               "charts",
               "d3",
@@ -3087,7 +3087,7 @@
             "open_issues": 3,
             "owner": "nirsky",
             "repo": "react-native-size-matters",
-            "stars": 2522,
+            "stars": 2521,
             "topics": [
               "javascript",
               "react-native",
@@ -3134,7 +3134,7 @@
             "open_issues": 13,
             "owner": "zachgibson",
             "repo": "react-native-parallax-swiper",
-            "stars": 623,
+            "stars": 622,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -3214,7 +3214,7 @@
             "id": 94996777,
             "language": "Objective-C",
             "license": "MIT",
-            "last_commit": "2026-11-07T00:05:06Z",
+            "last_commit": "2026-11-14T00:05:14Z",
             "open_issues": 1,
             "owner": "douglasjunior",
             "repo": "react-native-keyboard-manager",
@@ -5063,7 +5063,7 @@
             "id": 94703864,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-07T04:34:30Z",
+            "last_commit": "2026-11-14T04:52:02Z",
             "open_issues": 4,
             "owner": "douglasjunior",
             "repo": "react-native-simple-dialogs",
@@ -5279,7 +5279,7 @@
             "open_issues": 97,
             "owner": "lawnstarter",
             "repo": "react-native-picker-select",
-            "stars": 1844,
+            "stars": 1843,
             "topics": [
               "dropdown",
               "frontend",
@@ -8218,7 +8218,7 @@
             "open_issues": 85,
             "owner": "henninghall",
             "repo": "react-native-date-picker",
-            "stars": 2508,
+            "stars": 2507,
             "topics": [
               "date-time-picker",
               "datepicker",
@@ -8250,7 +8250,7 @@
             "open_issues": 61,
             "owner": "wix",
             "repo": "react-native-navigation",
-            "stars": 13169,
+            "stars": 13168,
             "topics": [
               "hacktoberfest",
               "navigation",
@@ -8364,7 +8364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T12:44:53.818Z",
+    "last_updated": "2026-11-14T11:52:42.598Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Native UI components updated weekly",
