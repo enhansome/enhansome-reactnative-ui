@@ -173,8 +173,8 @@
             "id": 81314550,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-13T17:05:29Z",
-            "open_issues": 88,
+            "last_commit": "2026-11-15T11:06:07Z",
+            "open_issues": 89,
             "owner": "wix",
             "repo": "react-native-ui-lib",
             "stars": 7160,
@@ -227,7 +227,7 @@
             "open_issues": 377,
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20368,
+            "stars": 20369,
             "topics": [
               "android",
               "hacktoberfest",
@@ -291,7 +291,7 @@
             "open_issues": 14,
             "owner": "oblador",
             "repo": "react-native-vector-icons",
-            "stars": 17930,
+            "stars": 17931,
             "topics": [
               "icon",
               "icon-pack",
@@ -314,10 +314,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-13T16:19:44Z",
-            "open_issues": 104,
+            "open_issues": 105,
             "owner": "react-native-maps",
             "repo": "react-native-maps",
-            "stars": 16016,
+            "stars": 16017,
             "topics": [
               "google-maps",
               "maps",
@@ -443,7 +443,7 @@
             "open_issues": 403,
             "owner": "meliorence",
             "repo": "react-native-snap-carousel",
-            "stars": 10485,
+            "stars": 10486,
             "topics": [
               "advanced-effects",
               "carousel",
@@ -600,7 +600,7 @@
             "open_issues": 250,
             "owner": "margelo",
             "repo": "react-native-blur",
-            "stars": 3879,
+            "stars": 3878,
             "topics": [
               "react-native",
               "react-native-blur",
@@ -1065,7 +1065,7 @@
             "open_issues": 284,
             "owner": "xgfe",
             "repo": "react-native-datepicker",
-            "stars": 2112,
+            "stars": 2111,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -1755,7 +1755,7 @@
             "open_issues": 29,
             "owner": "halilb",
             "repo": "react-native-photo-browser",
-            "stars": 716,
+            "stars": 717,
             "topics": [
               "photos",
               "react-native"
@@ -2606,7 +2606,7 @@
             "id": 52279702,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-07T22:31:02Z",
+            "last_commit": "2026-11-14T22:34:23Z",
             "open_issues": 3,
             "owner": "byteburgers",
             "repo": "react-native-autocomplete-input",
@@ -3412,7 +3412,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-03T23:07:40Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "joshswan",
             "repo": "react-native-autolink",
             "stars": 661,
@@ -4537,7 +4537,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2018-09-09T06:35:51Z",
-            "open_issues": 5,
+            "open_issues": 4,
             "owner": "SoftZen",
             "repo": "react-native-bouncy-drawer",
             "stars": 152,
@@ -6414,13 +6414,13 @@
           "repo_info": {
             "archived": false,
             "description": "A native and easy to use toast plugin for react-native",
-            "homepage": null,
+            "homepage": "https://semirturgay.github.io/react-native-toast-native/",
             "id": 94858807,
             "language": "Objective-C",
             "license": null,
             "last_commit": "2020-11-27T19:57:51Z",
             "open_issues": 18,
-            "owner": "onemolegames",
+            "owner": "semirturgay",
             "repo": "react-native-toast-native",
             "stars": 99,
             "topics": [
@@ -8250,7 +8250,7 @@
             "open_issues": 61,
             "owner": "wix",
             "repo": "react-native-navigation",
-            "stars": 13168,
+            "stars": 13169,
             "topics": [
               "hacktoberfest",
               "navigation",
@@ -8364,7 +8364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T11:52:42.598Z",
+    "last_updated": "2026-11-15T12:24:06.485Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Native UI components updated weekly",
@@ -8376,7 +8376,7 @@
       "open_issues": 12,
       "owner": "madhavanmalolan",
       "repo": "awesome-reactnative-ui",
-      "stars": 3462,
+      "stars": 3461,
       "topics": []
     },
     "original_repository_sha": "41b054c4d4ae63c1c3165e59e8738b23ef392bc7",
