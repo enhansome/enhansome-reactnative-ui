@@ -227,7 +227,7 @@
             "open_issues": 377,
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20369,
+            "stars": 20370,
             "topics": [
               "android",
               "hacktoberfest",
@@ -392,7 +392,7 @@
             "open_issues": 165,
             "owner": "ptomasroos",
             "repo": "react-native-scrollable-tab-view",
-            "stars": 6940,
+            "stars": 6941,
             "topics": [
               "animated",
               "react-native",
@@ -471,7 +471,7 @@
             "open_issues": 141,
             "owner": "wix",
             "repo": "react-native-calendars",
-            "stars": 10325,
+            "stars": 10326,
             "topics": [
               "android",
               "calendar",
@@ -496,7 +496,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-13T15:51:54Z",
-            "open_issues": 278,
+            "open_issues": 277,
             "owner": "software-mansion",
             "repo": "react-native-svg",
             "stars": 8012,
@@ -934,7 +934,7 @@
             "open_issues": 46,
             "owner": "maxs15",
             "repo": "react-native-spinkit",
-            "stars": 2430,
+            "stars": 2431,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -1907,7 +1907,7 @@
             "open_issues": 5,
             "owner": "alinz",
             "repo": "react-native-dropdown",
-            "stars": 662,
+            "stars": 663,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -2449,7 +2449,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-01T05:11:15Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "xcarpentier",
             "repo": "react-native-country-picker-modal",
             "stars": 1112,
@@ -3326,7 +3326,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-10-19T17:27:49Z",
-            "open_issues": 161,
+            "open_issues": 162,
             "owner": "FormidableLabs",
             "repo": "react-native-app-auth",
             "stars": 2252,
@@ -4183,7 +4183,7 @@
             "open_issues": 23,
             "owner": "instea",
             "repo": "react-native-color-picker",
-            "stars": 270,
+            "stars": 269,
             "topics": [
               "android",
               "color-picker",
@@ -8218,7 +8218,7 @@
             "open_issues": 85,
             "owner": "henninghall",
             "repo": "react-native-date-picker",
-            "stars": 2507,
+            "stars": 2506,
             "topics": [
               "date-time-picker",
               "datepicker",
@@ -8250,7 +8250,7 @@
             "open_issues": 61,
             "owner": "wix",
             "repo": "react-native-navigation",
-            "stars": 13169,
+            "stars": 13170,
             "topics": [
               "hacktoberfest",
               "navigation",
@@ -8364,7 +8364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T12:24:06.485Z",
+    "last_updated": "2026-11-16T13:15:57.413Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Native UI components updated weekly",
@@ -8373,7 +8373,7 @@
       "language": "Python",
       "license": null,
       "last_commit": "2023-08-28T10:35:44Z",
-      "open_issues": 12,
+      "open_issues": 13,
       "owner": "madhavanmalolan",
       "repo": "awesome-reactnative-ui",
       "stars": 3461,
