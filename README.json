@@ -19,7 +19,7 @@
             "open_issues": 189,
             "owner": "xinthink",
             "repo": "react-native-material-kit",
-            "stars": 4806,
+            "stars": 4805,
             "topics": [
               "material-design",
               "react-native"
@@ -43,7 +43,7 @@
             "open_issues": 16,
             "owner": "akveo",
             "repo": "react-native-ui-kitten",
-            "stars": 10666,
+            "stars": 10667,
             "topics": [
               "design-system",
               "eva-design-system",
@@ -174,10 +174,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-15T11:06:07Z",
-            "open_issues": 89,
+            "open_issues": 90,
             "owner": "wix",
             "repo": "react-native-ui-lib",
-            "stars": 7157,
+            "stars": 7156,
             "topics": [
               "android",
               "components",
@@ -227,7 +227,7 @@
             "open_issues": 377,
             "owner": "GeekyAnts",
             "repo": "NativeBase",
-            "stars": 20368,
+            "stars": 20367,
             "topics": [
               "android",
               "hacktoberfest",
@@ -264,7 +264,7 @@
             "open_issues": 24,
             "owner": "lottie-react-native",
             "repo": "lottie-react-native",
-            "stars": 17216,
+            "stars": 17217,
             "topics": [
               "after-effects",
               "animations",
@@ -314,7 +314,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-13T16:19:44Z",
-            "open_issues": 104,
+            "open_issues": 103,
             "owner": "react-native-maps",
             "repo": "react-native-maps",
             "stars": 16014,
@@ -367,7 +367,7 @@
             "open_issues": 3,
             "owner": "FaridSafi",
             "repo": "react-native-gifted-chat",
-            "stars": 14452,
+            "stars": 14451,
             "topics": [
               "chat",
               "component",
@@ -3214,7 +3214,7 @@
             "id": 94996777,
             "language": "Objective-C",
             "license": "MIT",
-            "last_commit": "2026-11-14T00:05:14Z",
+            "last_commit": "2026-11-21T00:05:23Z",
             "open_issues": 1,
             "owner": "douglasjunior",
             "repo": "react-native-keyboard-manager",
@@ -5063,7 +5063,7 @@
             "id": 94703864,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-14T04:52:02Z",
+            "last_commit": "2026-11-21T05:33:15Z",
             "open_issues": 4,
             "owner": "douglasjunior",
             "repo": "react-native-simple-dialogs",
@@ -7863,7 +7863,7 @@
             "id": 129140285,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-16T22:02:15Z",
+            "last_commit": "2026-11-21T02:43:06Z",
             "open_issues": 34,
             "owner": "maggialejandro",
             "repo": "react-native-calendario",
@@ -8364,7 +8364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T13:44:59.142Z",
+    "last_updated": "2026-11-21T13:10:08.606Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Native UI components updated weekly",
