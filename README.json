@@ -264,7 +264,7 @@
             "open_issues": 24,
             "owner": "lottie-react-native",
             "repo": "lottie-react-native",
-            "stars": 17217,
+            "stars": 17218,
             "topics": [
               "after-effects",
               "animations",
@@ -291,7 +291,7 @@
             "open_issues": 14,
             "owner": "oblador",
             "repo": "react-native-vector-icons",
-            "stars": 17931,
+            "stars": 17932,
             "topics": [
               "icon",
               "icon-pack",
@@ -339,7 +339,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-02-01T13:04:07Z",
-            "open_issues": 780,
+            "open_issues": 779,
             "owner": "leecade",
             "repo": "react-native-swiper",
             "stars": 10474,
@@ -471,7 +471,7 @@
             "open_issues": 141,
             "owner": "wix",
             "repo": "react-native-calendars",
-            "stars": 10326,
+            "stars": 10327,
             "topics": [
               "android",
               "calendar",
@@ -2606,7 +2606,7 @@
             "id": 52279702,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-14T22:34:23Z",
+            "last_commit": "2026-11-21T22:28:20Z",
             "open_issues": 3,
             "owner": "byteburgers",
             "repo": "react-native-autocomplete-input",
@@ -8364,7 +8364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T13:10:08.606Z",
+    "last_updated": "2026-11-22T12:57:40.696Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Native UI components updated weekly",
