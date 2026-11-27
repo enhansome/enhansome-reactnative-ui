@@ -73,7 +73,7 @@
             "open_issues": 215,
             "owner": "xotahal",
             "repo": "react-native-material-ui",
-            "stars": 3774,
+            "stars": 3773,
             "topics": [
               "android",
               "ios",
@@ -264,7 +264,7 @@
             "open_issues": 24,
             "owner": "lottie-react-native",
             "repo": "lottie-react-native",
-            "stars": 17220,
+            "stars": 17221,
             "topics": [
               "after-effects",
               "animations",
@@ -291,7 +291,7 @@
             "open_issues": 14,
             "owner": "oblador",
             "repo": "react-native-vector-icons",
-            "stars": 17931,
+            "stars": 17932,
             "topics": [
               "icon",
               "icon-pack",
@@ -317,7 +317,7 @@
             "open_issues": 104,
             "owner": "react-native-maps",
             "repo": "react-native-maps",
-            "stars": 16015,
+            "stars": 16012,
             "topics": [
               "google-maps",
               "maps",
@@ -418,7 +418,7 @@
             "open_issues": 356,
             "owner": "react-native-image-picker",
             "repo": "react-native-image-picker",
-            "stars": 8628,
+            "stars": 8631,
             "topics": [
               "image-picker",
               "picker",
@@ -499,7 +499,7 @@
             "open_issues": 282,
             "owner": "software-mansion",
             "repo": "react-native-svg",
-            "stars": 8013,
+            "stars": 8014,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:28.169Z"
@@ -569,7 +569,7 @@
             "open_issues": 653,
             "owner": "ivpusic",
             "repo": "react-native-image-crop-picker",
-            "stars": 6345,
+            "stars": 6346,
             "topics": [
               "android",
               "crop",
@@ -2221,14 +2221,14 @@
           "description": "[DEPRECATED] A Radio-button like logic wrapper for React Native Last updated : This weekStars : 404Open issues : 17",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "[DEPRECATED] A Radio-button like logic wrapper for React Native",
             "homepage": "https://www.npmjs.com/package/react-native-radio-buttons",
             "id": 39898325,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2018-04-19T07:09:56Z",
-            "open_issues": 18,
+            "last_commit": "2026-11-26T16:14:14Z",
+            "open_issues": 17,
             "owner": "ArnaudRinquin",
             "repo": "react-native-radio-buttons",
             "stars": 409,
@@ -8250,7 +8250,7 @@
             "open_issues": 63,
             "owner": "wix",
             "repo": "react-native-navigation",
-            "stars": 13169,
+            "stars": 13168,
             "topics": [
               "hacktoberfest",
               "navigation",
@@ -8364,7 +8364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T14:37:47.458Z",
+    "last_updated": "2026-11-27T14:32:40.982Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Native UI components updated weekly",
